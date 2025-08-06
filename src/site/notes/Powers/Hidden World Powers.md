@@ -167,7 +167,7 @@ All vampires possess these core abilities:
 - **Sense Amplification** - Intensifies others' senses
 - Sunlight Immunity
 
-#### Elizabeth Parks
+#### [[Characters/Elizabeth Parks\|Elizabeth Parks]]
 
 **Strength Classification:** Type I (can lift cars to buses)
 

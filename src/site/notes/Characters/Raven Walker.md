@@ -39,7 +39,7 @@
 
 **Sire:** Jonas (First generation vampire, directly created by Dracula)  
 **Date:** During the American Revolution, on her 13th birthday  
-**Circumstances:** Jonas murdered her entire family in front of her and planned to kill her as well, but was interrupted by vampire hunters led by James Deland
+**Circumstances:** Jonas murdered her entire family in front of her and planned to kill her as well, but was interrupted by vampire hunters led by [[Characters/James Deland\|James Deland]]
 
 **Unique Abilities:**
 
@@ -53,7 +53,7 @@
 
 ## Key Relationships
 
-### James Deland
+### [[Characters/James Deland\|James Deland]]
 
 - Vampire hunter who saved Raven from Jonas
 - Became her mentor and protector
@@ -61,7 +61,7 @@
 - Made her promise to protect his family line before he disappeared
 - Father figure who instilled moral code in her
 
-### Elizabeth Parks
+### [[Characters/Elizabeth Parks\|Elizabeth Parks]]
 
 - 3rd generation vampire with red hair and green eyes
 - Raven's closest companion and lover
@@ -120,11 +120,11 @@
 
 - Transformed into vampire at age 13
 - Family murdered by Jonas
-- Saved by James Deland and vampire hunters
+- Saved by [[Characters/James Deland\|James Deland]] and vampire hunters
 
 **Post-Revolution (1780s-1820s):**
 
-- Trained by James Deland
+- Trained by [[Characters/James Deland\|James Deland]]
 - Learned to hunt evil vampires
 - Followed and protected Deland family as they moved
 - Earned reputation as "Black-haired Hunter" and "betrayer of her kind"
@@ -132,7 +132,7 @@
 **New Orleans Era (1820s-1860s):**
 
 - Followed Deland family to New Orleans
-- Met and partnered with Elizabeth Parks
+- Met and partnered with [[Characters/Elizabeth Parks\|Elizabeth Parks]]
 - Continued protecting Deland descendants
 - Hunted in a city "filled with evil intent"
 
@@ -160,7 +160,7 @@
 
 **Allies:**
 
-- Elizabeth Parks (companion and lover)
+- [[Characters/Elizabeth Parks\|Elizabeth Parks]] (companion and lover)
 - Lobo Twins (Santiago and Domingo - vampire allies)
 - [[Characters/Leonette Alrick\|Leonette]] (churiphim friend)
 - Modern Deland family members (Kylie, Aunt Silvia, Catherine)
