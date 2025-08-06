@@ -15,7 +15,7 @@
 ## Physical Description
 
 - **Hair:** Long, sleek black hair (described as "raven black" - hence her nickname)
-- **Appearance:** Eternally youthful due to being turned at age 13
+- **Appearance:** Eternally youthful due to being turned at age 13, yet looks around 16 from the vampiric curse giving her an older look. 
 - **Eyes:** Dark eyes typical of vampires
 - **Build:** Slender but strong
 - **Clothing:** Often wears men's clothing under a long coat for mobility during hunting and fighting, though she prefers dresses when not in combat situations
