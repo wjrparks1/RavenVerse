@@ -10,9 +10,9 @@ The Prophecy is an ancient prediction that serves as one of the central driving 
 
 **Age:** The prophecy was made **thousands of years before Christ**, making it one of the oldest supernatural predictions in the Hidden World.
 
-**Source:** The prophecy was **written on ancient scrolls** that Elspet discovered in ages past. These scrolls contained the original text, though parts have been damaged or "ruined" over the millennia.
+**Source:** The prophecy was **written on ancient scrolls** that [[Characters/Elspet\|Elspet]] discovered in ages past. These scrolls contained the original text, though parts have been damaged or "ruined" over the millennia.
 
-**Discovery:** Elspet, in her thousands of years of existence, came across these ancient scrolls and has been one of the few beings to study and understand their contents.
+**Discovery:** [[Characters/Elspet\|Elspet]], in her thousands of years of existence, came across these ancient scrolls and has been one of the few beings to study and understand their contents.
 
 ## The Prophetic Vision
 
@@ -64,17 +64,17 @@ This duality means the prophesied figure could be either the ultimate savior or 
 
 ## Current Believers and Interpretations
 
-### Elspet's Hope
+### [[Characters/Elspet\|Elspet]]'s Hope
 
-Elspet represents the prophecy's most devoted believer, driven by deeply personal motivations:
+[[Characters/Elspet\|Elspet]] represents the prophecy's most devoted believer, driven by deeply personal motivations:
 
-- **Hannah's Salvation:** Elspet sees the prophecy as the only hope to free her daughter from the lilin curse she placed upon her
+- **Hannah's Salvation:** [[Characters/Elspet\|Elspet]] sees the prophecy as the only hope to free her daughter from the lilin curse she placed upon her
 - **Personal Redemption:** The prophecy represents a chance to undo the "worst thing" she ever did to Hannah
-- **Protective Vigilance:** Elspet carefully watches over potential candidates, particularly Raven
+- **Protective Vigilance:** [[Characters/Elspet\|Elspet]] carefully watches over potential candidates, particularly [[Characters/Raven Walker\|Raven]]
 
-### Raven as the Candidate
+### [[Characters/Raven Walker\|Raven]] as the Candidate
 
-Multiple characters believe Raven fits the prophetic description:
+Multiple characters believe [[Characters/Raven Walker\|Raven]] fits the prophetic description:
 
 - **Physical Match:** Black hair, as specified
 - **Moral Compass:** Refuses to feed on innocents, protects humans
@@ -84,7 +84,7 @@ Multiple characters believe Raven fits the prophetic description:
 
 ### Skepticism and Doubt
 
-- **Raven's Denial:** "I am no savior of vampires" - she rejects the role
+- **[[Characters/Raven Walker\|Raven]]'s Denial:** "I am no savior of vampires" - she rejects the role
 - **Dumitru's Caution:** Sees the prophecy as potentially dangerous to vampires
 - **General Disbelief:** Many dismiss it as fantasy or wishful thinking
 
@@ -104,8 +104,8 @@ Multiple characters believe Raven fits the prophetic description:
 
 ### For Individual Characters
 
-- **Elspet:** Willing to risk everything to protect the prophecy's fulfillment for Hannah's sake
-- **Raven:** Struggles with the burden of potentially being "chosen"
+- **[[Characters/Elspet\|Elspet]]:** Willing to risk everything to protect the prophecy's fulfillment for Hannah's sake
+- **[[Characters/Raven Walker\|Raven]]:** Struggles with the burden of potentially being "chosen"
 - **Other Undead:** Must decide whether to hope for cure or fear destruction
 
 ## Mysteries and Unknowns
@@ -115,7 +115,7 @@ Multiple characters believe Raven fits the prophetic description:
 - **How exactly would the cure/destruction work?**
 - **What triggers the prophetic powers?**
 - **Can the power be controlled to choose salvation over destruction?**
-- **Are there other potential candidates besides Raven?**
+- **Are there other potential candidates besides [[Characters/Raven Walker\|Raven]]?**
 - **What were the "ruined" portions of the original scrolls?**
 
 ### Future Implications
@@ -130,7 +130,7 @@ The prophecy suggests a **"far future"** where the cure becomes reality, indicat
 
 The Prophecy serves as:
 
-- **Central Motivation** for Elspet's character arc and her protection of both Hannah and Raven
+- **Central Motivation** for [[Characters/Elspet\|Elspet]]'s character arc and her protection of both Hannah and [[Characters/Raven Walker\|Raven]]
 - **Source of Conflict** between various factions who interpret it differently
 - **Symbol of Hope** for redemption in a world of supernatural curses
 - **Driving Force** for major plot developments and character relationships
@@ -141,7 +141,7 @@ The Prophecy serves as:
 The prophecy raises profound questions about:
 
 - **Redemption:** Can supernatural curses be forgiven and reversed?
-- **Free Will vs. Destiny:** Is Raven bound by fate or can she choose her path?
+- **Free Will vs. Destiny:** Is [[Characters/Raven Walker\|Raven]] bound by fate or can she choose her path?
 - **The Nature of Evil:** Are vampires inherently damned or victims of circumstance?
 - **Sacrifice:** What price must be paid for universal salvation?
 

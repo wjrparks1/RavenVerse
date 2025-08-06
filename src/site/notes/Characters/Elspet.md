@@ -109,19 +109,19 @@ In dire circumstances, Elspet can access apocalyptic-level abilities granted by 
 
 Elspet's most important relationship is with her daughter Hannah. She is deeply protective and loving toward the child, often worrying about dangers that might threaten her. Hannah sees Elspet as a hero and provides emotional grounding for the ancient lilin.
 
-### Raven - The Prophesied Savior
+### [[Characters/Raven Walker\|Raven]] - The Prophesied Savior
 
-Elspet has a deeply complex and significant relationship with the vampire Raven, who she believes may be the key to freeing her daughter Hannah from the lilin curse. Their relationship is built on multiple layers:
+Elspet has a deeply complex and significant relationship with the vampire [[Characters/Raven Walker\|Raven]], who she believes may be the key to freeing her daughter Hannah from the lilin curse. Their relationship is built on multiple layers:
 
 **The Ancient Prophecy:** Elspet believes in an ancient prophecy made thousands of years before Christ that foretells of a vampire who could reverse the undead curse - potentially offering salvation to those cursed with undead existence. The prophecy describes "a vampire with the power to end the undead existence, the power to reverse the curse" - specifically one with black hair who "detests feeding on humans and protects them" and "shuns her own kind."
 
-**Hope for Hannah:** Elspet has been searching for millennia for a cure to the curse she placed on Hannah to save her from death. She sees Raven as potentially fulfilling this prophecy, representing hope that Hannah could one day be freed from her eternal childhood and lilin nature.
+**Hope for Hannah:** Elspet has been searching for millennia for a cure to the curse she placed on Hannah to save her from death. She sees [[Characters/Raven Walker\|Raven]] as potentially fulfilling this prophecy, representing hope that Hannah could one day be freed from her eternal childhood and lilin nature.
 
-**Protective Instincts:** This belief adds deeper meaning to Elspet's protective actions toward Raven, including the dramatic rescue from crucifixion and various battles where she saves Raven from danger. She's not just saving an ally - she's protecting what might be her daughter's only chance at salvation.
+**Protective Instincts:** This belief adds deeper meaning to Elspet's protective actions toward [[Characters/Raven Walker\|Raven]], including the dramatic rescue from crucifixion and various battles where she saves [[Characters/Raven Walker\|Raven]] from danger. She's not just saving an ally - she's protecting what might be her daughter's only chance at salvation.
 
-**Careful Observation:** Elspet has watched Raven's development with great interest, noting her unique traits: immunity to holy weapons, ability to work with hunters, moral compass that prevents her from feeding on innocents, and her tendency to protect humans while fighting her own kind.
+**Careful Observation:** Elspet has watched [[Characters/Raven Walker\|Raven]]'s development with great interest, noting her unique traits: immunity to holy weapons, ability to work with hunters, moral compass that prevents her from feeding on innocents, and her tendency to protect humans while fighting her own kind.
 
-Despite their occasional conflicts when Raven tries to stop Elspet's more predatory activities, there's profound mutual respect between them, enhanced by Elspet's hope that Raven represents the future salvation of her daughter.
+Despite their occasional conflicts when [[Characters/Raven Walker\|Raven]] tries to stop Elspet's more predatory activities, there's profound mutual respect between them, enhanced by Elspet's hope that [[Characters/Raven Walker\|Raven]] represents the future salvation of her daughter.
 
 ### Arthur and Lisa
 
@@ -158,11 +158,11 @@ Elspet's primary enemies are demons who see her as a significant threat to their
 
 ### Churiphim
 
-Half-angels who hunt supernatural creatures view Elspet as a dangerous target due to her immense power and lilin nature. While she has defeated multiple high-ranking churiphim including Mena and her forces, **Elspet is notably cautious about facing Judith, the first-rank churiphim**.
+Half-angels who hunt supernatural creatures view Elspet as a dangerous target due to her immense power and lilin nature. While she has defeated multiple high-ranking churiphim including [[Characters/Mena Halifax\|Mena]] and her forces, **Elspet is notably cautious about facing [[Characters/Judith\|Judith]], the first-rank churiphim**.
 
-**Regarding Judith specifically**: Elspet has never fought Judith directly, and when discussing the presence of the first-rank churiphim, she warns that "We shall need to tread carefully with the witch roaming about." This unusual caution from someone who single-handedly defeated five high-ranking churiphim suggests that Judith represents a level of threat that even Elspet takes seriously. Her careful approach stems from her need to protect Hannah and her hope that the prophecy involving Raven will come to fruition - she cannot afford to take unnecessary risks that might prevent her daughter's eventual salvation.
+**Regarding [[Characters/Judith\|Judith]] specifically**: Elspet has never fought [[Characters/Judith\|Judith]] directly, and when discussing the presence of the first-rank churiphim, she warns that "We shall need to tread carefully with the witch roaming about." This unusual caution from someone who single-handedly defeated five high-ranking churiphim suggests that [[Characters/Judith\|Judith]] represents a level of threat that even Elspet takes seriously. Her careful approach stems from her need to protect Hannah and her hope that the prophecy involving [[Characters/Raven Walker\|Raven]] will come to fruition - she cannot afford to take unnecessary risks that might prevent her daughter's eventual salvation.
 
-This caution is particularly significant given that Elspet explains to Andreea: "As much as ye would do everything to protect and make certain Dumitru is safe, so do I for the one I care for. The army of the Order and the strongest churiphim and Judith are upon us... Because of that, I must tread carefully." The fact that she specifically mentions Judith alongside "the strongest churiphim" indicates that she views the first-rank as being in a category of her own.
+This caution is particularly significant given that Elspet explains to Andreea: "As much as ye would do everything to protect and make certain Dumitru is safe, so do I for the one I care for. The army of the Order and the strongest churiphim and [[Characters/Judith\|Judith]] are upon us... Because of that, I must tread carefully." The fact that she specifically mentions [[Characters/Judith\|Judith]] alongside "the strongest churiphim" indicates that she views the first-rank as being in a category of her own.
 
 ### Other Supernatural Politics
 
@@ -185,49 +185,49 @@ Her three "Naked Sins" locations across Los Angeles serve as both business ventu
 
 ## Key Story Moments
 
-### Battle with Mena and Multiple High-Ranking Churiphim
+### Battle with [[Characters/Mena Halifax\|Mena]] and Multiple High-Ranking Churiphim
 
-One of Elspet's most impressive feats was her single-handed battle against **Mena** (second-rank churiphim of the Order) and four other high-ranking churiphim simultaneously. During this epic confrontation:
+One of Elspet's most impressive feats was her single-handed battle against **[[Characters/Mena Halifax\|Mena]]** (second-rank churiphim of the Order) and four other high-ranking churiphim simultaneously. During this epic confrontation:
 
-- **The Setup:** Elspet faced off against Mena, Demeter, Aradia, Verena, and Catori - five of the Order's most powerful half-angels
+- **The Setup:** Elspet faced off against [[Characters/Mena Halifax\|Mena]], Demeter, Aradia, Verena, and Catori - five of the Order's most powerful half-angels
 - **Display of Power:** Elspet summoned hundreds of mirror images of herself and created crackling yellow discs that made deafening whistling sounds
 - **Weather Control:** She turned the clouds red and created an orange globe of flames in the sky that shot down flaming spheres
 - **Individual Combat:** Despite being outnumbered 5-to-1, Elspet systematically defeated each churiphim:
     - Cut Demeter in half at the legs
     - Drove her sword through Catori's chest
-    - Used Mena as a human shield against Aradia and Verena's attacks
+    - Used [[Characters/Mena Halifax\|Mena]] as a human shield against Aradia and Verena's attacks
     - Gutted Aradia and removed both of Verena's hands
-    - Finally defeated Mena by stabbing her through the heart and removing both her arms
+    - Finally defeated [[Characters/Mena Halifax\|Mena]] by stabbing her through the heart and removing both her arms
 
 This battle demonstrated that Elspet was individually more powerful than even the highest-ranking churiphim, establishing her as one of the most formidable supernatural beings in existence.
 
-### Rescue of Raven from Crucifixion
+### Rescue of [[Characters/Raven Walker\|Raven]] from Crucifixion
 
-Elspet performed a dramatic rescue when she saved Raven from torture and near-death:
+Elspet performed a dramatic rescue when she saved [[Characters/Raven Walker\|Raven]] from torture and near-death:
 
-- **The Situation:** Raven had been captured by hunters led by Samuel and was crucified (nailed to a cross) with over twenty stakes driven through her body
-- **The Torture:** Raven was being tortured on "hallowed ground" and was near death from the extensive staking and blood loss
-- **Elspet's Intervention:** Elspet appeared on the supposedly sacred ground (showing her immunity to holy protections), killed all of Raven's torturers including brutally mutilating Samuel, and freed both Raven and Victor
-- **The Rescue:** Elspet personally pulled out each of the twenty-plus stakes from Raven's body, lifted her from the cross, and carried her through the sky to safety while Raven cried and clutched onto her "dark angel"
-- **Aftermath:** Elspet nursed Raven back to health over several days, forcing blood into her mouth and caring for her like a mother
+- **The Situation:** [[Characters/Raven Walker\|Raven]] had been captured by hunters led by Samuel and was crucified (nailed to a cross) with over twenty stakes driven through her body
+- **The Torture:** [[Characters/Raven Walker\|Raven]] was being tortured on "hallowed ground" and was near death from the extensive staking and blood loss
+- **Elspet's Intervention:** Elspet appeared on the supposedly sacred ground (showing her immunity to holy protections), killed all of [[Characters/Raven Walker\|Raven]]'s torturers including brutally mutilating Samuel, and freed both [[Characters/Raven Walker\|Raven]] and Victor
+- **The Rescue:** Elspet personally pulled out each of the twenty-plus stakes from [[Characters/Raven Walker\|Raven]]'s body, lifted her from the cross, and carried her through the sky to safety while [[Characters/Raven Walker\|Raven]] cried and clutched onto her "dark angel"
+- **Aftermath:** Elspet nursed [[Characters/Raven Walker\|Raven]] back to health over several days, forcing blood into her mouth and caring for her like a mother
 
-This rescue established a deep bond between Elspet and Raven, with Raven recognizing Elspet as her savior despite their previous conflicts.
+This rescue established a deep bond between Elspet and [[Characters/Raven Walker\|Raven]], with [[Characters/Raven Walker\|Raven]] recognizing Elspet as her savior despite their previous conflicts.
 
 ### Battle with Invisible Demon
 
 Elspet engaged in a significant battle with a powerful invisible demon that could bypass her protection enchantments, demonstrating both her vulnerabilities and her ability to adapt in combat.
 
-### Confrontation with Leonette
+### Confrontation with [[Characters/Leonette Alrick\|Leonette]]
 
-A major battle with the churiphim Leonette showcased Elspet's combat prowess and her willingness to show mercy when asked by allies.
+A major battle with [[Ravenverse/The Churiphim\|the churiphim]] [[Characters/Leonette Alrick\|Leonette]] showcased Elspet's combat prowess and her willingness to show mercy when asked by allies.
 
 ### Protecting Amy
 
 Elspet took on the protection of a young woman named Amy who was targeted by demons as a potential vessel, showing her commitment to protecting innocents.
 
-### Saving Raven from Mena's Capture
+### Saving [[Characters/Raven Walker\|Raven]] from [[Characters/Mena Halifax\|Mena]]'s Capture
 
-Elspet rescued Raven when the second-rank churiphim Mena had captured her during a solo hunt. Elspet appeared just as Mena was about to take Raven prisoner, engaged Mena in combat with golden spinning discs, and carried Raven to safety through the sky after creating a brilliant explosion in the forest.
+Elspet rescued [[Characters/Raven Walker\|Raven]] when the second-rank churiphim [[Characters/Mena Halifax\|Mena]] had captured her during a solo hunt. Elspet appeared just as [[Characters/Mena Halifax\|Mena]] was about to take [[Characters/Raven Walker\|Raven]] prisoner, engaged [[Characters/Mena Halifax\|Mena]] in combat with golden spinning discs, and carried [[Characters/Raven Walker\|Raven]] to safety through the sky after creating a brilliant explosion in the forest.
 
 ## Quotes
 
