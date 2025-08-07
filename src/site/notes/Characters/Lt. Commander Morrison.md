@@ -4,7 +4,7 @@
 
 
 
-**Lt. Commander Morrison** is the first successful transhuman soldier created by the **[[Ravenverse/DTO\|DTO]] ([[Ravenverse/DTO\|Department of Transhuman Operations]])**, representing a breakthrough in human enhancement through alien genetic integration. As a first-generation enhanced human infused with **Angorian DNA**, Morrison serves as both proof-of-concept for the transhuman program and a field commander for operations requiring superhuman intervention.
+**Lt. Commander Morrison** is the first successful transhuman soldier created by the **[[Ravenverse/DTO\|DTO]] ([[Ravenverse/DTO\|Department of Transhuman Operations]])**, representing a breakthrough in human enhancement through alien genetic integration. As a first-generation enhanced human infused with **[[Ravenverse/Angorian Species\|Angorian]] DNA**, Morrison serves as both proof-of-concept for the transhuman program and a field commander for operations requiring superhuman intervention.
 
 ## Personal Background
 
@@ -12,7 +12,7 @@
 
 - **Military Service**: Extensive career in U.S. military special operations
 - **Rank**: Lieutenant Commander (retained after enhancement)
-- **Selection**: Chosen as volunteer test subject for [[Ravenverse/DTO\|DTO]]'s Angorian enhancement program
+- **Selection**: Chosen as volunteer test subject for [[Ravenverse/DTO\|DTO]]'s [[Ravenverse/Angorian Species\|Angorian]] enhancement program
 - **Classification**: First successful human-alien genetic integration
 
 ### **Physical Characteristics**
@@ -24,13 +24,13 @@
 
 ## The Enhancement Process
 
-### **Angorian DNA Integration**
+### **[[Ravenverse/Angorian Species\|Angorian]] DNA Integration**
 
 Morrison underwent the [[Ravenverse/DTO\|DTO]]'s experimental genetic splicing procedure:
 
 #### **Source Material**
 
-- **Species**: Angorian aliens (feline-like extraterrestrials)
+- **Species**: [[Ravenverse/Angorian Species\|Angorian]] aliens (feline-like extraterrestrials)
 - **Origin**: Genetic samples from beings that crashed in the Amazon 20 years prior
 - **Compatibility**: Superior integration compared to other alien species tested
 - **Success Rate**: Morrison represents the program's first complete success
@@ -247,5 +247,5 @@ Morrison's success validates the entire [[Ravenverse/DTO\|DTO]] enhancement prog
 **Current Status**: Active Field Operative  
 **Classification**: [[Ravenverse/DTO\|DTO]] First-Generation Transhuman  
 **Threat Assessment**: Extreme (Capable of engaging supernatural entities)  
-**Enhancement Type**: Angorian DNA Integration  
+**Enhancement Type**: [[Ravenverse/Angorian Species\|Angorian]] DNA Integration  
 **Operational Clearance**: Highest Level Government Operations

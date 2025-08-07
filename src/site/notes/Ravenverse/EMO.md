@@ -28,7 +28,7 @@
 
 - **Position**: Enhanced supersoldier from the [[Ravenverse/DTO\|DTO]] ([[Ravenverse/DTO\|Department of Transhuman Operations]])
 - **Role**: Field commander sent to handle situations requiring superhuman intervention
-- **Enhancement**: First-generation transhuman with Angorian DNA splicing
+- **Enhancement**: First-generation transhuman with [[Ravenverse/Angorian Species\|Angorian]] DNA splicing
 - **Abilities**: Enhanced strength, speed, durability, and resistance to conventional weapons
 
 ### **Operational Teams**
@@ -63,7 +63,7 @@ The EMO works alongside several other classified departments:
 
 #### **[[Ravenverse/DTO\|DTO]] ([[Ravenverse/DTO\|Department of Transhuman Operations]])**
 
-- **Focus**: Angorian DNA research and human enhancement
+- **Focus**: [[Ravenverse/Angorian Species\|Angorian]] DNA research and human enhancement
 - **Success**: Created Lt. Commander [[Characters/Lt. Commander Morrison\|Morrison]] and the upcoming Alpha Team
 - **Leadership**: Leads the field in genetic enhancement research
 
@@ -80,7 +80,7 @@ The EMO oversees multiple extraterrestrial research initiatives:
 #### **Species Classification**
 
 - **[[Ravenverse/a1AlphaC\|a1AlphaC]]**: Aggressive alien species with rapid healing and reproduction capabilities
-- **Angorian Species**: Feline-like aliens that crashed in the Amazon 20 years prior
+- **[[Ravenverse/Angorian Species\|Angorian Species]]**: Feline-like aliens that crashed in the Amazon 20 years prior
 - **Research Timeline**: Government knowledge of alien visitors dating back to the Eisenhower administration
 
 #### **Genetic Splicing Projects**
