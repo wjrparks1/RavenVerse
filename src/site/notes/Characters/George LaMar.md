@@ -39,7 +39,7 @@
 - **Moral Conflict**: Struggles with having to kill to survive
 - **Protective**: Willing to work with serial killer to protect family from threats
 
-## Relationship with Frank Martin (The Toy Maker)
+## Relationship with [[Characters/Frank Martin\|Frank Martin]] (The Toy Maker)
 
 ### Background
 
