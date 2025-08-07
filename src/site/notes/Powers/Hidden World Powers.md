@@ -102,7 +102,7 @@ All vampires possess these core abilities:
 - **Blood Evaporation** - Within 200-yard radius
 - Sunlight Immunity
 
-#### Andreea
+#### [[Characters/Andreea Cohen\|Andreea]]
 
 **Status:** Death-Enhanced Vampire **Strength Classification:** Type I (can lift cars to buses)
 

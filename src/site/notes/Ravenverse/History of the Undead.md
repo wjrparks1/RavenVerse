@@ -99,7 +99,7 @@ Vampires spread rapidly, primarily through Dracula's three wives. While most of 
 **Dracula's lineage and their offspring:**
 
 - Jonas → Sala Walker ([[Characters/Raven Walker\|Raven]])
-- Dumitru → Mariana → Damian → Andreea
+- Dumitru → Mariana → Damian → [[Characters/Andreea Cohen\|Andreea]]
 - Zephyr → Mirela → Zane → 200+ descendants
 - Constanta → 400+ descendants
 - Atanasia → 50+ descendants
@@ -295,7 +295,7 @@ The undead world consists of three distinct species: **Lilins** (the ancient fir
 **Dracula's Original Seven:**
 
 - **Jonas** → Sala Walker ([[Characters/Raven Walker\|Raven]])
-- **Dumitru** → Mariana → Damian → Andreea
+- **Dumitru** → Mariana → Damian → [[Characters/Andreea Cohen\|Andreea]]
 - **Zephyr** → Mirela → Zane → 200+ descendants
 - **Lucie**
 - **Three Brides of Dracula** (missing):

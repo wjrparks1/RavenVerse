@@ -42,9 +42,9 @@ The **Hidden World Series** is the main collection of books set in the Ravenvers
 
 - Focuses on [[Characters/Elspet\|Elspet]], a powerful lilin with her own dark agenda
 
-**The Undying: An Andreea Novella**
+**The Undying: An [[Characters/Andreea Cohen\|Andreea]] Novella**
 
-- Chronicles the story of Andreea, a vampire with unique necromantic abilities
+- Chronicles the story of [[Characters/Andreea Cohen\|Andreea]], a vampire with unique necromantic abilities
 
 ### Short Stories
 
