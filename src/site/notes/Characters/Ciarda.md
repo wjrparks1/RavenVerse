@@ -70,7 +70,7 @@
 - **Master Swordswoman**: Expert with various bladed weapons including daggers
 - **Supernatural Resilience**: Silver causes only minor damage (faint smoke, hissing)
 - **Pain Tolerance**: Can grip silver blades despite causing her discomfort
-- **Combat Assessment**: Described as "the best fighter in our group" by Lucas Cole
+- **Combat Assessment**: Described as "the best fighter in our group" by [[Characters/Lucas Cole\|Lucas]] Cole
 - **Tactical Fighting**: Coordinates effectively with team members
 - **Weapon Shattering**: Can destroy enchanted weapons with her bare hands
 

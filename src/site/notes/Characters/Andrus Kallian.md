@@ -98,7 +98,7 @@
 
 #### [[Ravenverse/The Umbra\|The Umbra]] (Reluctant Alliance)
 
-- **Lucas Cole**: Team leader who repeatedly invites Andrus to join
+- **[[Characters/Lucas Cole\|Lucas Cole]]**: Team leader who repeatedly invites Andrus to join
 - **[[Characters/Ciarda\|Ciarda]]**: Ancient lilin fighter who earned Andrus's respect in combat
 - **Status**: Considering joining after [[Characters/Sia\|Sia]]'s encouragement
 

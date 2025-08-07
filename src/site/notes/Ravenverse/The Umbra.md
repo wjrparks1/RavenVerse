@@ -24,7 +24,7 @@
 
 ## Leadership Structure
 
-### Lucas Cole - Leader
+### [[Characters/Lucas Cole\|Lucas]] Cole - Leader
 
 - **Species**: Enhanced human (exact nature unknown)
 - **Role**: Field commander and strategic coordinator
@@ -48,7 +48,7 @@
     - Demonic force manipulation and shape-shifting
     - Master swordswoman with exceptional speed
     - Can absorb some supernatural attacks (silver causes only minor damage)
-- **Combat Assessment**: Described as "the best fighter in our group" by Lucas
+- **Combat Assessment**: Described as "the best fighter in our group" by [[Characters/Lucas Cole\|Lucas]]
 - **Unique Position**: Ancient lilin working to protect humans from supernatural threats
 
 ### Ryker [[Ravenverse/The Shanto\|Santo]] - Spiritual Warrior
@@ -109,7 +109,7 @@
 ### Mission Planning
 
 - **Intelligence Gathering**: Technical team researches targets and locations
-- **Tactical Coordination**: Lucas assigns roles based on individual strengths
+- **Tactical Coordination**: [[Characters/Lucas Cole\|Lucas]] assigns roles based on individual strengths
 - **Communication**: Team uses microphone system for field coordination
 - **Equipment**: Members use personal weapons and abilities rather than standard gear
 
@@ -180,7 +180,7 @@
 
 ### Species Diversity
 
-- **Humans**: Lucas Cole, Jason Cooper, Diann Martin
+- **Humans**: [[Characters/Lucas Cole\|Lucas]] Cole, Jason Cooper, Diann Martin
 - **Lilins**: [[Characters/Ciarda\|Ciarda]] (ancient, memory-impaired)
 - **Santos**: Ryker and Ambrosia (brother-sister team)
 - **Integration**: All species work as equals regardless of supernatural abilities
