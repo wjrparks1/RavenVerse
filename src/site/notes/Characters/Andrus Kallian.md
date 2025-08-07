@@ -89,7 +89,7 @@
 
 ### Current Allies
 
-#### Sia
+#### [[Characters/Sia\|Sia]]
 
 - **Species**: Witch
 - **Relationship**: Close friend, one of his few remaining connections
@@ -100,7 +100,7 @@
 
 - **Lucas Cole**: Team leader who repeatedly invites Andrus to join
 - **[[Characters/Ciarda\|Ciarda]]**: Ancient lilin fighter who earned Andrus's respect in combat
-- **Status**: Considering joining after Sia's encouragement
+- **Status**: Considering joining after [[Characters/Sia\|Sia]]'s encouragement
 
 ### Complex Relationships
 
@@ -188,7 +188,7 @@
 
 - **Setting**: New York City, Hell's Kitchen
 - **New Alliances**: First encounters with [[Ravenverse/The Umbra\|The Umbra]] hunting group
-- **Major Battle**: Rescue mission for Sia, confrontation with Phillip
+- **Major Battle**: Rescue mission for [[Characters/Sia\|Sia]], confrontation with Phillip
 - **Character Growth**: Begins to consider working with others again after years of isolation
 - **Status**: Cautiously opening to the idea of joining [[Ravenverse/The Umbra\|The Umbra]]
 

@@ -58,7 +58,7 @@
 - **Complete Dematerialization**: Can phase in and out of physical existence
     - _"She was completely dematerializing"_ - beyond normal vampire speed
     - Allows her to appear and disappear at will during combat
-    - Can be blocked by magical barriers (as demonstrated by Andrus)
+    - Can be blocked by magical barriers (as demonstrated by [[Characters/Andrus Kallian\|Andrus]])
 - **Demonic Force Manipulation**: Control over dark supernatural energies
 - **Demonic Transformation**: Can partially transform (red/black skin, claws) to absorb magic
 - **Shape-Shifting**: Can alter physical form and take on different identities
@@ -112,25 +112,25 @@
 
 ### Protective Duties
 
-- **Sia's Guardian**: Assigned to watch over Sia by her sister Kim
+- **[[Characters/Sia\|Sia]]'s Guardian**: Assigned to watch over [[Characters/Sia\|Sia]] by her sister Kim
 - **Surveillance**: Follows potential targets to assess threats
 - **Intervention**: Steps in when team members or allies are endangered
 - **Experience**: _"I've been following you. I was expecting an attack as well"_
 
 ## Major Combat Encounters
 
-### Vs. Andrus Kallian (Second Encounter - Rooftop)
+### Vs. [[Characters/Andrus Kallian\|Andrus]] Kallian (Second Encounter - Rooftop)
 
 **Setting**: After vampire club massacre, confronted on rooftop
 
-**Revelation**: Andrus discovered her identity as Mashisa the Mad Demon
+**Revelation**: [[Characters/Andrus Kallian\|Andrus]] discovered her identity as Mashisa the Mad Demon
 
 - _"You're Mashisa"_ / _"My name is Ciarda. I am not Mashisa. Not anymore."_
-- Andrus researched the Hellblade and connected it to ancient legends
+- [[Characters/Andrus Kallian\|Andrus]] researched the Hellblade and connected it to ancient legends
 
 **Combat Dynamics**:
 
-- Andrus used magical barriers to prevent her teleportation
+- [[Characters/Andrus Kallian\|Andrus]] used magical barriers to prevent her teleportation
 - She chose to fight hand-to-hand rather than use weapons to avoid killing him
 - Demonstrated superior combat skills against enhanced Aeon abilities
 - Her demonic transformation absorbed his magical attacks
@@ -144,7 +144,7 @@
 
 **Outcome**:
 
-- Defeated Andrus without killing him, maintaining her redemption path
+- Defeated [[Characters/Andrus Kallian\|Andrus]] without killing him, maintaining her redemption path
 - Left him alive despite him knowing her dangerous past
 - Retrieved her weapons and escaped, showing restraint over vengeance
 
@@ -164,7 +164,7 @@
 
 **Alley Ambush**: Confronted by Amity (Phillip's mate) and thirty vampires
 
-- Fought alongside Andrus against overwhelming odds
+- Fought alongside [[Characters/Andrus Kallian\|Andrus]] against overwhelming odds
 - Eliminated most attackers, though Amity and Lucian escaped
 - Created public scene with 30+ vampire bodies, drawing attention
 
@@ -183,11 +183,11 @@
 
 ## Relationships & Connections
 
-### Sia & Kim (Witch Sisters)
+### [[Characters/Sia\|Sia]] & Kim (Witch Sisters)
 
-- **Protection Detail**: Assigned by Kim to guard Sia
+- **Protection Detail**: Assigned by Kim to guard [[Characters/Sia\|Sia]]
 - **Professional Relationship**: Works with witches despite species differences
-- **Mutual Respect**: Sia trusts Ciarda's capabilities and judgment
+- **Mutual Respect**: [[Characters/Sia\|Sia]] trusts Ciarda's capabilities and judgment
 - **Family Dynamics**: Understands protective instincts between sisters
 
 ### Adam Coleman & The Umbra Leadership
@@ -198,10 +198,10 @@
 - **No True Choice**: Unlike other team members, cannot refuse assignments
 - **Complex Dynamic**: Adam claims it's voluntary; Ciarda knows it's compulsion
 
-### Andrus Kallian
+### [[Characters/Andrus Kallian\|Andrus]] Kallian
 
 - **Initial Conflict**: Fought as enemies during first encounter
-- **Growing Respect**: Andrus acknowledged her superior combat skills
+- **Growing Respect**: [[Characters/Andrus Kallian\|Andrus]] acknowledged her superior combat skills
 - **Potential Alliance**: Both warriors with similar protective instincts
 - **Understanding**: Recognizes his grief and loss from personal experience
 
@@ -209,7 +209,7 @@
 
 ### Emotional Depth & Recognition of Loss
 
-- **Shared Sorrow**: Recognizes something familiar in Andrus - _"a reflection of her own past"_
+- **Shared Sorrow**: Recognizes something familiar in [[Characters/Andrus Kallian\|Andrus]] - _"a reflection of her own past"_
 - **Understanding Grief**: _"A sorrow that lingered from losing those close to you"_
 - **Empathy**: Despite her ancient status, retains deep emotional connection to loss and pain
 - **Heart for Others**: Can identify with others who have experienced devastating personal losses
@@ -227,7 +227,7 @@
 
 - **Measured Response**: Uses appropriate force for the situation
 - **Team Coordination**: Prioritizes group success over individual glory
-- **Mercy When Possible**: Avoided killing Andrus when she could have
+- **Mercy When Possible**: Avoided killing [[Characters/Andrus Kallian\|Andrus]] when she could have
 - **Strategic Thinking**: Considers long-term consequences of actions
 
 ### Moral Alignment
@@ -274,7 +274,7 @@
 ### Relationship Dynamics
 
 - **Adam Coleman**: Tense dynamic between controller and controlled
-- **Andrus Kallian**: Dangerous adversary who knows her true identity
+- **[[Characters/Andrus Kallian\|Andrus]] Kallian**: Dangerous adversary who knows her true identity
 - **The Umbra Team**: Professional relationships complicated by her secret agenda
 - **Vampire World**: Now viewed as dangerous threat rather than potential ally
 

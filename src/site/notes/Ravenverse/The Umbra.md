@@ -34,7 +34,7 @@
     - Exceptional tracking abilities (can follow scent trails)
     - Leadership qualities that earn respect from diverse team members
 - **Leadership Style**: Decisive, protective, willing to trust qualified individuals quickly
-- **Notable Quote**: _"We hunt vampires, same as you. You're an Aeon."_ (to Andrus)
+- **Notable Quote**: _"We hunt vampires, same as you. You're an Aeon."_ (to [[Characters/Andrus Kallian\|Andrus]])
 
 ## Core Members
 
@@ -129,7 +129,7 @@
 - **Outcome**: Complete destruction of clan hierarchy
 - **Notable**: Required coordination between multiple supernatural abilities
 
-### Sia Rescue Mission
+### [[Characters/Sia\|Sia]] Rescue Mission
 
 - **Situation**: Witch kidnapped using demonic sorcery
 - **Location**: Abandoned hospital in Hell's Kitchen
@@ -155,9 +155,9 @@
 
 ### Individual Supernatural Entities
 
-- **Sia**: Allied witch who provides magical support and information
-- **Kim**: Sia's sister, more powerful witch who assists in crisis situations
-- **Andrus Kallian**: Potential recruit, former Aeon considering membership
+- **[[Characters/Sia\|Sia]]**: Allied witch who provides magical support and information
+- **Kim**: [[Characters/Sia\|Sia]]'s sister, more powerful witch who assists in crisis situations
+- **[[Characters/Andrus Kallian\|Andrus Kallian]]**: Potential recruit, former Aeon considering membership
 - **Status**: Building network of supernatural allies outside official channels
 
 ## Headquarters and Resources
@@ -210,7 +210,7 @@
 
 ### Recruitment Needs
 
-- **Andrus Kallian**: Attempting to recruit former Aeon for combat expertise
+- **[[Characters/Andrus Kallian\|Andrus]] Kallian**: Attempting to recruit former Aeon for combat expertise
 - **Network Expansion**: Building relationships with independent supernatural beings
 - **Skill Gaps**: Need for additional magical and combat specialists
 - **Trust Building**: Integrating new members into close-knit team structure

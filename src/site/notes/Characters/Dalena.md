@@ -4,7 +4,7 @@
 
 
 
-**Dalena** was the 18th-ranked churiphim (half-angel, half-human warrior) within The Order of the Sons of Light and longtime hunting partner of Andrus Kallian. A superb warrior and outcast from The Order's politics, she died tragically in West Texas at the hands of Zephyr, a first-generation vampire.
+**Dalena** was the 18th-ranked churiphim (half-angel, half-human warrior) within The Order of the Sons of Light and longtime hunting partner of [[Characters/Andrus Kallian\|Andrus]] Kallian. A superb warrior and outcast from The Order's politics, she died tragically in West Texas at the hands of Zephyr, a first-generation vampire.
 
 ## Physical Description
 
@@ -20,17 +20,17 @@
 
 - One of 40 churiphim warriors created by angelic blessing
 - Originally sentenced to death by The Order for unknown political infractions
-- Rescued and given a "second chance" by Andrus Kallian, who saw her potential
+- Rescued and given a "second chance" by [[Characters/Andrus Kallian\|Andrus]] Kallian, who saw her potential
 - Trained in both churiphim combat techniques and magical spellcasting
-- Became an outcast from The Order's internal politics, making her partnership with Andrus natural
+- Became an outcast from The Order's internal politics, making her partnership with [[Characters/Andrus Kallian\|Andrus]] natural
 
-### Partnership with Andrus
+### Partnership with [[Characters/Andrus Kallian\|Andrus]]
 
 - **Duration**: Years of hunting together across rural America
 - **Role**: Constant companion on lonely roads, cleansing towns of vampire infestations
-- **Relationship**: More than just a hunting partner - described as Andrus's closest friend
-- **Respect**: Earned Andrus's deep respect, which he gave to very few people
-- **Trust**: One of the only beings Andrus ever truly trusted after his brother's betrayal
+- **Relationship**: More than just a hunting partner - described as [[Characters/Andrus Kallian\|Andrus]]'s closest friend
+- **Respect**: Earned [[Characters/Andrus Kallian\|Andrus]]'s deep respect, which he gave to very few people
+- **Trust**: One of the only beings [[Characters/Andrus Kallian\|Andrus]] ever truly trusted after his brother's betrayal
 
 ## Powers & Abilities
 
@@ -55,7 +55,7 @@
 ### Combat Skills
 
 - **Machaira Mastery**: Expert with the churiphim's signature curved sword
-- **Dual Combat**: Could fight effectively alongside Andrus in coordinated attacks
+- **Dual Combat**: Could fight effectively alongside [[Characters/Andrus Kallian\|Andrus]] in coordinated attacks
 - **Tactical Fighting**: Skilled at setting vampires ablaze while maintaining sword combat
 - **Weapon Enhancement**: Enchanted her machaira with "small greenish runes" for increased effectiveness
 
@@ -63,7 +63,7 @@
 
 ### West Texas Blood (Final Mission)
 
-**Setting**: Rural Texas vampire investigation with Andrus
+**Setting**: Rural Texas vampire investigation with [[Characters/Andrus Kallian\|Andrus]]
 
 **Mission Objectives**:
 
@@ -73,7 +73,7 @@
 
 **Key Encounters**:
 
-- Fought against Raven Walker (before alliance was formed)
+- Fought against [[Characters/Raven Walker\|Raven]] Walker (before alliance was formed)
 - Battled fledgling vampires in abandoned locations
 - Tracked supernatural activity across Texas countryside
 
@@ -95,49 +95,49 @@
 
 ## Legacy & Impact
 
-### Effect on Andrus
+### Effect on [[Characters/Andrus Kallian\|Andrus]]
 
-- Her death devastated Andrus, triggering berserker rage against Zephyr
-- Andrus performed churiphim funeral rites, setting her body ablaze with magical flames
+- Her death devastated [[Characters/Andrus Kallian\|Andrus]], triggering berserker rage against Zephyr
+- [[Characters/Andrus Kallian\|Andrus]] performed churiphim funeral rites, setting her body ablaze with magical flames
 - _"She'd been a good partner. Loyal. More than a partner, a friend and companion in this lonely path."_
-- Andrus kept her silver XVIII medallion as remembrance, wearing it under his shirt
+- [[Characters/Andrus Kallian\|Andrus]] kept her silver XVIII medallion as remembrance, wearing it under his shirt
 - Her loss reinforced his trust issues and pushed him toward greater isolation
 
 ### Professional Recognition
 
-- Considered a "superb warrior" by Andrus's high standards
+- Considered a "superb warrior" by [[Characters/Andrus Kallian\|Andrus]]'s high standards
 - Respected by other members of The Order despite being an outcast
 - One of the few churiphim to work effectively with a former Aeon
-- Her loyalty and skill set the standard for what Andrus valued in a partner
+- Her loyalty and skill set the standard for what [[Characters/Andrus Kallian\|Andrus]] valued in a partner
 
-### Friendship with Sia
+### Friendship with [[Characters/Sia\|Sia]]
 
-- Formed strong bond with Sia, a witch in New York
-- Fought alongside Sia in various supernatural conflicts
-- Sia helped Dalena explore her human side, teaching her normalcy
+- Formed strong bond with [[Characters/Sia\|Sia]], a witch in New York
+- Fought alongside [[Characters/Sia\|Sia]] in various supernatural conflicts
+- [[Characters/Sia\|Sia]] helped Dalena explore her human side, teaching her normalcy
 - Their friendship bridged the gap between different supernatural communities
 
 ## Personality & Character
 
 ### Core Traits
 
-- **Loyal**: Unwavering dedication to Andrus and their mission
+- **Loyal**: Unwavering dedication to [[Characters/Andrus Kallian\|Andrus]] and their mission
 - **Professional**: Maintained focus on hunting objectives
 - **Brave**: Faced elder vampires without hesitation
 - **Growing Humanity**: Beginning to explore her human side before death
-- **Trustworthy**: One of the few beings to earn Andrus's complete trust
+- **Trustworthy**: One of the few beings to earn [[Characters/Andrus Kallian\|Andrus]]'s complete trust
 
 ### Character Development
 
 - Started as outcast sentenced to death by The Order
-- Grew into respected warrior through partnership with Andrus
-- Began embracing human experiences through friendship with Sia
+- Grew into respected warrior through partnership with [[Characters/Andrus Kallian\|Andrus]]
+- Began embracing human experiences through friendship with [[Characters/Sia\|Sia]]
 - Was learning to balance churiphim duties with personal connections
 
 ### Relationships
 
-- **Andrus**: Closest friend, trusted partner, mutual respect
-- **Sia**: Female friend who taught her human customs and normalcy
+- **[[Characters/Andrus Kallian\|Andrus]]**: Closest friend, trusted partner, mutual respect
+- **[[Characters/Sia\|Sia]]**: Female friend who taught her human customs and normalcy
 - **The Order**: Complicated relationship due to outcast status
 - **Other Churiphim**: Professional recognition despite political issues
 
@@ -145,7 +145,7 @@
 
 ### Fighting Style
 
-- **Coordinated Combat**: Worked seamlessly with Andrus in battle
+- **Coordinated Combat**: Worked seamlessly with [[Characters/Andrus Kallian\|Andrus]] in battle
 - **Magic Integration**: Combined swordplay with spell casting
 - **Area Control**: Used fire magic to manage multiple opponents
 - **Tactical Thinking**: Strategic approach to vampire elimination
@@ -169,17 +169,17 @@
 ### Funeral Rites
 
 - Body burned according to churiphim tradition
-- Andrus performed the ritual personally despite his grief
+- [[Characters/Andrus Kallian\|Andrus]] performed the ritual personally despite his grief
 - Medallion preserved as memorial to their partnership
-- Memory honored through Andrus's continued protection of innocents
+- Memory honored through [[Characters/Andrus Kallian\|Andrus]]'s continued protection of innocents
 
 ### Lasting Impact
 
-- Her death marked end of Andrus's partnership era
+- Her death marked end of [[Characters/Andrus Kallian\|Andrus]]'s partnership era
 - Influenced his reluctance to work with others for years afterward
 - Memorial medallion serves as reminder of trust and loyalty
-- Her values continue to influence Andrus's moral code
+- Her values continue to influence [[Characters/Andrus Kallian\|Andrus]]'s moral code
 
 ## Current Status
 
-**Deceased** - Killed by Zephyr in West Texas. Her XVIII medallion is kept by Andrus as a remembrance of their years together fighting supernatural threats. Her death remains a defining tragedy in Andrus's life and a primary motivation for his quest for vengeance against Zephyr.
+**Deceased** - Killed by Zephyr in West Texas. Her XVIII medallion is kept by [[Characters/Andrus Kallian\|Andrus]] as a remembrance of their years together fighting supernatural threats. Her death remains a defining tragedy in [[Characters/Andrus Kallian\|Andrus]]'s life and a primary motivation for his quest for vengeance against Zephyr.
