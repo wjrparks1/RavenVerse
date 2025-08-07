@@ -79,7 +79,7 @@ The EMO oversees multiple extraterrestrial research initiatives:
 
 #### **Species Classification**
 
-- **a1AlphaC**: Aggressive alien species with rapid healing and reproduction capabilities
+- **[[Ravenverse/a1AlphaC\|a1AlphaC]]**: Aggressive alien species with rapid healing and reproduction capabilities
 - **Angorian Species**: Feline-like aliens that crashed in the Amazon 20 years prior
 - **Research Timeline**: Government knowledge of alien visitors dating back to the Eisenhower administration
 
