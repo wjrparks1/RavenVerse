@@ -4,7 +4,7 @@
 
 
 
-**Andreea Cohen** (also known as **Melissa Gray** in her modern identity) is a powerful vampire and former government assassin in WJR Parks' **Hidden World Series**. She serves as the protagonist of _Andreea The Undying_ and appears as a significant character in the first two _Raven_ novels.
+**Andreea Cohen** (also known as **Melissa Gray** in her modern identity) is a powerful vampire and former government assassin in WJR Parks' **Hidden World Series**. She serves as the protagonist of _Andreea The Undying_ and appears as a significant character in the first two _[[Characters/Raven Walker\|Raven]]_ novels.
 
 ## Biography
 
@@ -44,7 +44,7 @@ After her resurrection, Andreea:
 
 - Trained extensively in military combat, espionage, and weapons
 - Became known as **"The Lotus"** - an elite government assassin
-- Worked for the **EMO (Elite Missions Operations)** black ops agency
+- Worked for the **[[Ravenverse/EMO\|EMO]] ([[Ravenverse/EMO\|Elite Missions Operations]])** black ops agency
 - Adopted the identity **Melissa Gray**
 - Followed a strict moral code: only killing those who deserved death
 
@@ -55,7 +55,7 @@ While on what she believed was a mission to eliminate a Russian spy, Andreea dis
 - Andreea going rogue and protecting innocent civilians
 - Discovering government experiments combining alien and human DNA
 - Fighting an alien-human hybrid creature (the "a1")
-- Forming a romantic relationship with **Sheriff Tucker Danvers**
+- Forming a romantic relationship with **Sheriff [[Characters/Tucker Danvers\|Tucker Danvers]]**
 - Being forced to eliminate **Agent Crowe** to protect her identity
 
 ## Powers and Abilities
@@ -93,19 +93,19 @@ While on what she believed was a mission to eliminate a Russian spy, Andreea dis
 ### **Romantic**
 
 - **Dumitru**: Her vampire creator and centuries-long love interest (unrequited)
-- **Sheriff Tucker Danvers**: Modern romantic interest from Sanderson, Texas
+- **Sheriff [[Characters/Tucker Danvers\|Tucker Danvers]]**: Modern romantic interest from Sanderson, Texas
 
 ### **Allies**
 
-- **Elspet**: Fellow vampire and ally in Dumitru's army
+- **[[Characters/Elspet\|Elspet]]**: Fellow vampire and ally in Dumitru's army
 - **Dr. Kevin Alinsky**: Scientist she protected during the Sanderson Incident
-- **Raven Walker**: Fellow vampire hunter she befriended despite ideological differences
+- **[[Characters/Raven Walker\|Raven]] Walker**: Fellow vampire hunter she befriended despite ideological differences
 
 ### **Enemies**
 
 - **The Order of the Sons of Light**: Ancient vampire hunting organization
-- **Agent Crowe**: EMO handler she was forced to kill (†)
-- **Lt. Commander Morrison**: Transhuman supersoldier who defeated her in combat
+- **Agent Crowe**: [[Ravenverse/EMO\|EMO]] handler she was forced to kill (†)
+- **Lt. Commander [[Characters/Lt. Commander Morrison\|Morrison]]**: Transhuman supersoldier who defeated her in combat
 
 ## Personality
 
@@ -154,8 +154,8 @@ Andreea represents a unique evolution in vampire mythology - a creature who chos
 
 **Series Appearances**:
 
-- _Raven: Birth into Darkness_ (Supporting Character)
-- _Raven: Demon of Darkness_ (Supporting Character)
+- _[[Characters/Raven Walker\|Raven]]: Birth into Darkness_ (Supporting Character)
+- _[[Characters/Raven Walker\|Raven]]: Demon of Darkness_ (Supporting Character)
 - _Andreea The Undying_ (Protagonist)
 
 **Aliases**: Melissa Gray, The Lotus
