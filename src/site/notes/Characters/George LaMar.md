@@ -21,7 +21,7 @@
 
 - **Appearance Changes**: Physical appearance began changing after being turned into a vampire
 - **Vampire Traits**: Possesses claws, enhanced strength, requires blood to survive
-- **Combat Ability**: Poor fighter, easily defeated by Leonette despite vampire strength
+- **Combat Ability**: Poor fighter, easily defeated by [[Characters/Leonette Alrick\|Leonette]] despite vampire strength
 - **Regeneration**: Requires homeland soil to sleep and regenerate properly
 
 ## Vampire Transformation
@@ -66,14 +66,14 @@
 - **Target Type**: Wealthy business people who walk past the toy store
 - **Method**: Corners victims so Martin can capture them
 - **Feeding Pattern**: Only feeds when necessary to quench bloodlust
-- **Moral Guidelines**: After meeting Leonette, agrees to only target criminals and pedophiles
+- **Moral Guidelines**: After meeting [[Characters/Leonette Alrick\|Leonette]], agrees to only target criminals and pedophiles
 
-## Encounter with Leonette
+## Encounter with [[Characters/Leonette Alrick\|Leonette]]
 
 ### Initial Confrontation
 
 - **Location**: Alley behind toy store during nighttime
-- **Combat**: Attacked Leonette but was easily overpowered
+- **Combat**: Attacked [[Characters/Leonette Alrick\|Leonette]] but was easily overpowered
 - **Revelation**: Admitted to working with Martin under threat
 
 ### Key Confessions
@@ -83,9 +83,9 @@
 - **Martin's Plans**: Warned that Martin wants to be turned into a vampire
 - **Information Sharing**: Provided details about Martin's evidence storage
 
-### Leonette's Offer
+### [[Characters/Leonette Alrick\|Leonette]]'s Offer
 
-- **Sire Promise**: Leonette offered to help him find a proper vampire sire for training
+- **Sire Promise**: [[Characters/Leonette Alrick\|Leonette]] offered to help him find a proper vampire sire for training
 - **Financial Help**: Offered assistance with wife's medical bills
 - **Moral Guidance**: Instructed to only feed on criminals, not innocents
 - **Protection Deal**: Agreement to help catch Martin in exchange for family safety
@@ -94,7 +94,7 @@
 
 - **Limited Vampire Lore**: Knows very little about vampire nature and requirements
 - **Martin's Secrets**: Aware of safe location and victim souvenirs
-- **Demon Knowledge**: Unaware that Martin is a demon servile until Leonette tells him
+- **Demon Knowledge**: Unaware that Martin is a demon servile until [[Characters/Leonette Alrick\|Leonette]] tells him
 - **Family Awareness**: Knows about wife's heart condition through vampire senses
 
 ## Character Motivation
@@ -113,7 +113,7 @@
 
 ## Character Arc Significance
 
-George LaMar represents the tragic figure of an unwilling vampire caught between supernatural needs and human morality. His story illustrates the complexity of supernatural transformation when it happens to ordinary people with families and responsibilities. His partnership with Martin shows how evil can exploit the vulnerable, while his agreement with Leonette offers hope for redemption and a better path forward.
+George LaMar represents the tragic figure of an unwilling vampire caught between supernatural needs and human morality. His story illustrates the complexity of supernatural transformation when it happens to ordinary people with families and responsibilities. His partnership with Martin shows how evil can exploit the vulnerable, while his agreement with [[Characters/Leonette Alrick\|Leonette]] offers hope for redemption and a better path forward.
 
 ## Memorable Quotes
 

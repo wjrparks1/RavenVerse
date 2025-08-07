@@ -27,7 +27,7 @@
 
 ## Supernatural Nature
 
-- **Species**: Demon servile/minion (revealed by Leonette)
+- **Species**: Demon servile/minion (revealed by [[Characters/Leonette Alrick\|Leonette]])
 - **Supernatural Knowledge**: Extensive knowledge of vampire lore and requirements
 - **Vampire Experience**: Claims to have been a subservient to a vampire that was killed
 - **Scent**: Produces an unholy smell that mixes with the undead scent - described as so overpowering "even God Himself couldn't suffer"
@@ -93,19 +93,19 @@
 - **Trophy Taking**: Compulsive collection of victim souvenirs
 - **Long-term Planning**: Methodical in victim selection and evidence preservation
 
-## Confrontation with Leonette
+## Confrontation with [[Characters/Leonette Alrick\|Leonette]]
 
 ### Basement Encounter
 
-- **Discovery**: Caught removing evidence when Leonette broke into his store
-- **Initial Terror**: Physically afraid when first confronted by Leonette
+- **Discovery**: Caught removing evidence when [[Characters/Leonette Alrick\|Leonette]] broke into his store
+- **Initial Terror**: Physically afraid when first confronted by [[Characters/Leonette Alrick\|Leonette]]
 - **Recovered Arrogance**: Became confident when expecting LaMar's arrival
-- **Threats**: Attempted to intimidate Leonette with promises of torture
+- **Threats**: Attempted to intimidate [[Characters/Leonette Alrick\|Leonette]] with promises of torture
 
 ### Final Capture
 
 - **Physical Response**: Urinated himself when threatened with death
-- **Boastful Behavior**: Tried to claim Leonette's hair and eyes as trophies
+- **Boastful Behavior**: Tried to claim [[Characters/Leonette Alrick\|Leonette]]'s hair and eyes as trophies
 - **Partner Reliance**: Expected LaMar to save him and "suck her dry"
 - **Arrest**: Ultimately captured by Detective McCort
 
@@ -133,7 +133,7 @@ Frank Martin represents pure human evil that exploits and corrupts supernatural 
 
 ## Memorable Quotes
 
-- "This will be the trophy of all trophies" (referring to Leonette's hair)
+- "This will be the trophy of all trophies" (referring to [[Characters/Leonette Alrick\|Leonette]]'s hair)
 - "And your eyes, what a prize"
 - "You're going to be sucked dry, but not until I've had my fun"
 - "This is going to be the most entertaining kill I've ever done"
@@ -142,6 +142,6 @@ Frank Martin represents pure human evil that exploits and corrupts supernatural 
 ## Investigation Details
 
 - **Police Case**: Investigated by Detective McCort as serial killer
-- **Evidence Discovery**: Leonette found his trophy collection leading to arrest
+- **Evidence Discovery**: [[Characters/Leonette Alrick\|Leonette]] found his trophy collection leading to arrest
 - **Store Address**: Located on Newark area, accessible from alley
 - **Forensic Connection**: Linked to crimes through collector's toy found at murder scene
