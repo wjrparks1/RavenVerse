@@ -52,8 +52,8 @@ The **Hidden World Series** is the main collection of books set in the Ravenvers
 - **The Pact: An [[Characters/Elspet\|Elspet]] Short Story 2**
 - **Vampire: A [[Characters/Raven Walker\|Raven Walker]] Short Story**
 - **Churiphim: A [[Characters/Leonette Alrick\|Leonette]] Short Story**
-- **The Umbra: An Andrus Kallian Short Story**
-- **The Umbra II: A Ciarda Short Story**
+- **[[Ravenverse/The Umbra\|The Umbra]]: An [[Characters/Andrus Kallian\|Andrus]] Kallian Short Story**
+- **[[Ravenverse/The Umbra\|The Umbra]] II: A [[Characters/Ciarda\|Ciarda]] Short Story**
 - **Ashia Storm Mage: A Short Story**
 
 ---
@@ -87,7 +87,7 @@ The **Hidden World Series** is the main collection of books set in the Ravenvers
 - Angelic warriors who occasionally intervene in supernatural conflicts
 - Extremely powerful and feared by both vampires and lilins
 
-**Santo**
+**[[Ravenverse/The Shanto\|Santo]]**
 
 - Mysterious holy warriors, little is known about their organization or capabilities
 

@@ -288,7 +288,7 @@ Lilins possess all vampire abilities plus enhanced power due to their ancient ex
 - **Fire Summoning**
 - Sunlight Immunity
 
-#### Ciarda
+#### [[Characters/Ciarda\|Ciarda]]
 
 **Strength Classification:** Type I (can lift cars to buses)
 
@@ -305,7 +305,7 @@ Lilins possess all vampire abilities plus enhanced power due to their ancient ex
 
 ## Other Supernatural Beings
 
-### Andrus Kallian
+### [[Characters/Andrus Kallian\|Andrus]] Kallian
 
 **Type:** Rune Magic User **Base Strength:** Peak Human (800-1100 lbs) **Enhanced Strength:** Type II (with rune magic)
 

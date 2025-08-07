@@ -51,7 +51,7 @@ _Half angel, half human beings granted powers by the angels to help fight the li
 
 **Aeon Patrick Kingston** – Master over [[Ravenverse/The Churiphim\|the Churiphim]] and Western Region of The Order of The Sons of Light.
 
-**Andrus** – Former Aeon.
+**[[Characters/Andrus Kallian\|Andrus]]** – Former Aeon.
 
 ### The Forty Churiphim
 
@@ -131,9 +131,9 @@ _A clandestine group that uses the power of spiritual energy to battle the evil 
 
 ---
 
-## The Umbra
+## [[Ravenverse/The Umbra\|The Umbra]]
 
-**Ciarda** – Additional details available in Powers document
+**[[Characters/Ciarda\|Ciarda]]** – Additional details available in Powers document
 
 ---
 

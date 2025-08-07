@@ -27,7 +27,7 @@ During the American Revolutionary War, Andreea served as part of Dumitru's vampi
 
 #### **First Death and Resurrection** (Early 1800s)
 
-Andreea was captured and brutally tortured by a **churiphim** (half-angel vampire hunter) with ice-silver eyes and storm-silver hair. The churiphim:
+Andreea was captured and brutally tortured by a **churiphim** (half-angel vampire hunter) with ice-silver eyes and storm-silver hair. [[Ravenverse/The Churiphim\|The churiphim]]:
 
 - Hung Andreea from a tree by her remaining limb
 - Slowly severed her limbs one by one

@@ -107,7 +107,7 @@
 - **Physical Response**: Urinated himself when threatened with death
 - **Boastful Behavior**: Tried to claim [[Characters/Leonette Alrick\|Leonette]]'s hair and eyes as trophies
 - **Partner Reliance**: Expected LaMar to save him and "suck her dry"
-- **Arrest**: Ultimately captured by Detective McCort
+- **Arrest**: Ultimately captured by [[Characters/Detective McCort\|Detective McCort]]
 
 ## Supernatural Knowledge
 
@@ -141,7 +141,7 @@ Frank Martin represents pure human evil that exploits and corrupts supernatural 
 
 ## Investigation Details
 
-- **Police Case**: Investigated by Detective McCort as serial killer
+- **Police Case**: Investigated by [[Characters/Detective McCort\|Detective McCort]] as serial killer
 - **Evidence Discovery**: [[Characters/Leonette Alrick\|Leonette]] found his trophy collection leading to arrest
 - **Store Address**: Located on Newark area, accessible from alley
 - **Forensic Connection**: Linked to crimes through collector's toy found at murder scene
