@@ -4,12 +4,12 @@
 
 
 
-**Ryker Santo** is a spiritual warrior and member of The Umbra supernatural hunting organization. As a Santo practitioner of the ancient Shanto arts, he wields spiritual energy to create weapons and summon spirit entities for combat. Brother to [[Characters/Ambrosia Santo\|Ambrosia Santo]], Ryker represents the integration of the secretive Shanto organization with modern supernatural hunting operations.
+**Ryker [[Ravenverse/The Shanto\|Santo]]** is a spiritual warrior and member of [[Ravenverse/The Umbra\|The Umbra]] supernatural hunting organization. As a [[Ravenverse/The Shanto\|Santo]] practitioner of the ancient Shanto arts, he wields spiritual energy to create weapons and summon spirit entities for combat. Brother to [[Characters/Ambrosia Santo\|Ambrosia Santo]], Ryker represents the integration of the secretive Shanto organization with modern supernatural hunting operations.
 
 ## Physical Description
 
-- **Species**: Human enhanced with spiritual energy (Santo)
-- **Family**: Brother to [[Characters/Ambrosia Santo\|Ambrosia]] Santo
+- **Species**: Human enhanced with spiritual energy ([[Ravenverse/The Shanto\|Santo]])
+- **Family**: Brother to [[Characters/Ambrosia Santo\|Ambrosia]] [[Ravenverse/The Shanto\|Santo]]
 - **Build**: Warrior physique trained for spiritual combat
 - **Combat Presence**: Confident fighter with supernatural abilities
 - **Personality Trait**: Somewhat sarcastic sense of humor
@@ -18,13 +18,13 @@
 
 ### Shanto Heritage
 
-- **Organization**: Member of the Shanto, _"a clandestine group, they use the power of spiritual energy to battle the evil of the world"_
+- **Organization**: Member of [[Ravenverse/The Shanto\|the Shanto]], _"a clandestine group, they use the power of spiritual energy to battle the evil of the world"_
 - **Ancient Order**: Part of secretive organization that predates many modern supernatural hunters
-- **Balance Keepers**: _"The Order and the Shanto keep watch over each other, balancing the powers"_
+- **Balance Keepers**: _"The Order and [[Ravenverse/The Shanto\|the Shanto]] keep watch over each other, balancing the powers"_
 - **Training Background**: Underwent rigorous spiritual energy training
 - **Family Tradition**: Serves alongside his sister [[Characters/Ambrosia Santo\|Ambrosia]] in supernatural combat
 
-### The Umbra Recruitment
+### [[Ravenverse/The Umbra\|The Umbra]] Recruitment
 
 - **Former Lone Wolf**: Like other Umbra members, was originally an independent operator
 - **Team Integration**: Successfully adapted from solo operations to coordinated team combat
@@ -39,7 +39,7 @@
 - **Energy Manifestation**: Creates yellow/golden glowing constructs
 - **Spiritual Weapons**: Materializes energy-based swords and axes
 - **Combat Enhancement**: Uses spiritual power to augment physical abilities
-- **Inner Power Source**: _"The Shanto use a spiritual power, an inner power"_
+- **Inner Power Source**: _"[[Ravenverse/The Shanto\|The Shanto]] use a spiritual power, an inner power"_
 
 ### Spirit Construct Creation
 
@@ -55,7 +55,7 @@
 - **Adaptive Combat**: Adjusts fighting style based on supernatural opponent type
 - **Strategic Thinking**: Analyzes enemy weaknesses and deploys appropriate spiritual responses
 
-## Role in The Umbra
+## Role in [[Ravenverse/The Umbra\|The Umbra]]
 
 ### Spiritual Combat Specialist
 
@@ -75,7 +75,7 @@
 
 ### Phillip Confrontation (Abandoned Hospital)
 
-**Setting**: Rescue mission for kidnapped witch Sia
+**Setting**: Rescue mission for kidnapped witch [[Characters/Sia\|Sia]]
 
 **Combat Performance**:
 
@@ -138,9 +138,9 @@
 
 ### Other Umbra Members
 
-- **Ciarda**: Works alongside despite her forced participation
+- **[[Characters/Ciarda\|Ciarda]]**: Works alongside despite her forced participation
 - **Technical Team**: Coordinates with Jason and Diann for mission planning
-- **Adam Coleman**: Serves under organizational structure while maintaining Shanto independence
+- **[[Characters/Adam Coleman\|Adam Coleman]]**: Serves under organizational structure while maintaining Shanto independence
 
 ## Personality & Combat Psychology
 
@@ -178,7 +178,7 @@
 
 - **Urban Operations**: Applies traditional spiritual techniques to modern supernatural threats
 - **Technology Integration**: Works with technical support while maintaining spiritual focus
-- **Cross-Training**: Learns from other supernatural combat styles within The Umbra
+- **Cross-Training**: Learns from other supernatural combat styles within [[Ravenverse/The Umbra\|The Umbra]]
 - **Cultural Preservation**: Maintains Shanto traditions while adapting to team environment
 
 ## Current Operations & Challenges
@@ -199,7 +199,7 @@
 
 ## Significance to The Hidden World
 
-**Ryker Santo represents the integration of ancient spiritual warrior traditions with modern supernatural hunting operations.** His membership in The Umbra demonstrates how traditional organizations like the Shanto can adapt to contemporary threats while maintaining their core spiritual principles.
+**Ryker [[Ravenverse/The Shanto\|Santo]] represents the integration of ancient spiritual warrior traditions with modern supernatural hunting operations.** His membership in [[Ravenverse/The Umbra\|The Umbra]] demonstrates how traditional organizations like [[Ravenverse/The Shanto\|the Shanto]] can adapt to contemporary threats while maintaining their core spiritual principles.
 
 **Key Contributions:**
 
@@ -208,8 +208,8 @@
 - **Traditional Knowledge**: Offers alternative approaches to supernatural threat assessment
 - **Family Partnership**: Demonstrates effectiveness of coordinated sibling combat teams
 
-**Organizational Bridge**: As a Santo serving in The Umbra, Ryker represents potential cooperation between the secretive Shanto and other supernatural protection organizations. His success could lead to broader alliance between traditional spiritual warriors and modern hunting groups.
+**Organizational Bridge**: As a [[Ravenverse/The Shanto\|Santo]] serving in [[Ravenverse/The Umbra\|The Umbra]], Ryker represents potential cooperation between the secretive Shanto and other supernatural protection organizations. His success could lead to broader alliance between traditional spiritual warriors and modern hunting groups.
 
-**The Shanto Connection**: His presence suggests that the ancient balance between The Order of the Sons of Light and the Shanto may be evolving, with both organizations contributing members to independent groups like The Umbra that prioritize effectiveness over traditional institutional boundaries.
+**[[Ravenverse/The Shanto\|The Shanto]] Connection**: His presence suggests that the ancient balance between The Order of the Sons of Light and [[Ravenverse/The Shanto\|the Shanto]] may be evolving, with both organizations contributing members to independent groups like [[Ravenverse/The Umbra\|The Umbra]] that prioritize effectiveness over traditional institutional boundaries.
 
-**Ryker Santo embodies the evolution of supernatural protection from rigid organizational structures to flexible, multicultural teams that combine the best elements of different traditions.** His spiritual abilities, combined with his integration into The Umbra's diverse team, suggests that the future of supernatural hunting lies not in the dominance of any single organization, but in the cooperation of warriors from all traditions united by their commitment to protecting innocent life.
+**Ryker [[Ravenverse/The Shanto\|Santo]] embodies the evolution of supernatural protection from rigid organizational structures to flexible, multicultural teams that combine the best elements of different traditions.** His spiritual abilities, combined with his integration into [[Ravenverse/The Umbra\|The Umbra]]'s diverse team, suggests that the future of supernatural hunting lies not in the dominance of any single organization, but in the cooperation of warriors from all traditions united by their commitment to protecting innocent life.

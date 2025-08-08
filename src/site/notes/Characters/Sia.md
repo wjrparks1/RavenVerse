@@ -24,7 +24,7 @@
 
 ### Relationship with [[Characters/Dalena\|Dalena]]
 
-- **Close Friendship**: Formed a strong bond with the churiphim warrior
+- **Close Friendship**: Formed a strong bond with [[Ravenverse/The Churiphim\|the churiphim]] warrior
 - **Sister in Battle**: Fought alongside [[Characters/Dalena\|Dalena]] in various supernatural conflicts
 - **Humanity Teacher**: Helped [[Characters/Dalena\|Dalena]] explore her human side and learn normal behaviors
 - **Shopping Mentor**: Taught [[Characters/Dalena\|Dalena]] about normal human activities and interests
@@ -85,18 +85,18 @@
 - **Family**: Has a sister who is a more powerful witch
 - **Power Comparison**: Kim is described as "the stronger witch of the two"
 - **Professional Relationship**: Both sisters work in supernatural protection
-- **Umbra Connection**: Kim has connections to The Umbra organization
+- **Umbra Connection**: Kim has connections to [[Ravenverse/The Umbra\|The Umbra]] organization
 
 ### [[Characters/Dalena\|Dalena]] (Deceased Friend)
 
 - **Deep Friendship**: Formed strong personal bond beyond professional cooperation
-- **Battle Companion**: Fought alongside the churiphim in various conflicts
+- **Battle Companion**: Fought alongside [[Ravenverse/The Churiphim\|the churiphim]] in various conflicts
 - **Personal Impact**: Helped [[Characters/Dalena\|Dalena]] discover her humanity and normal interests
 - **Legacy**: Their friendship changed both women's perspectives on life and duty
 
-### The Umbra
+### [[Ravenverse/The Umbra\|The Umbra]]
 
-- **Allied Organization**: Sister Kim is connected to The Umbra hunting group
+- **Allied Organization**: Sister Kim is connected to [[Ravenverse/The Umbra\|The Umbra]] hunting group
 - **Indirect Support**: Provides assistance to the group through family connections
 - **Protection Detail**: [[Characters/Ciarda\|Ciarda]] was assigned to protect her on Kim's request
 
@@ -142,13 +142,13 @@
 
 **Rescue Mission**:
 
-- The Umbra launched full-scale rescue operation
+- [[Ravenverse/The Umbra\|The Umbra]] launched full-scale rescue operation
 - Battle took place in underground levels of abandoned hospital
 - Confronted Phillip and his supernatural enhancements
 
 **Resolution**:
 
-- Successfully rescued by combined efforts of The Umbra
+- Successfully rescued by combined efforts of [[Ravenverse/The Umbra\|The Umbra]]
 - Phillip escaped due to his soul-bound hellforged sword
 - Experience demonstrated both her vulnerability and value to allies
 
@@ -181,7 +181,7 @@
 ### Present Situation
 
 - **Active Bar Owner**: Continues operating her establishment in Hell's Kitchen
-- **Protected Asset**: Under watch by The Umbra due to her strategic importance
+- **Protected Asset**: Under watch by [[Ravenverse/The Umbra\|The Umbra]] due to her strategic importance
 - **Growing Power**: Magical abilities continue to develop
 - **Key Ally**: Remains important connection point for supernatural hunters
 

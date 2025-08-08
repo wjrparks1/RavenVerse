@@ -54,7 +54,7 @@
 
 ### Combat Skills
 
-- **Machaira Mastery**: Expert with the churiphim's signature curved sword
+- **Machaira Mastery**: Expert with [[Ravenverse/The Churiphim\|the churiphim]]'s signature curved sword
 - **Dual Combat**: Could fight effectively alongside [[Characters/Andrus Kallian\|Andrus]] in coordinated attacks
 - **Tactical Fighting**: Skilled at setting vampires ablaze while maintaining sword combat
 - **Weapon Enhancement**: Enchanted her machaira with "small greenish runes" for increased effectiveness

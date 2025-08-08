@@ -3,7 +3,7 @@
 ---
 
 
-**Ciarda** is an ancient lilin (first undead created by Lilith) and elite combat specialist for The Umbra supernatural hunting organization. Despite being one of the oldest and most powerful undead creatures, she has chosen to protect mortals from supernatural threats, making her one of the most unique figures in the Hidden World.
+**Ciarda** is an ancient lilin (first undead created by Lilith) and elite combat specialist for [[Ravenverse/The Umbra\|The Umbra]] supernatural hunting organization. Despite being one of the oldest and most powerful undead creatures, she has chosen to protect mortals from supernatural threats, making her one of the most unique figures in the Hidden World.
 
 ## Physical Description
 
@@ -36,7 +36,7 @@
 
 - **Binding Curse**: A witch removed half of her heart and cursed it with control magic
 - **Forced Servitude**: Must obey commands of whoever possesses her half heart
-- **Current Controller**: [[Characters/Adam Coleman\|Adam Coleman]] of The Umbra holds her half heart
+- **Current Controller**: [[Characters/Adam Coleman\|Adam Coleman]] of [[Ravenverse/The Umbra\|The Umbra]] holds her half heart
 - **Unwilling Member**: _"I am the only one in the team who has no choice"_
 - **Debt Concept**: Views her service as paying a debt until her heart is returned
 - **Freedom Quest**: Seeks the Hellblade to reverse the curse and regain her freedom
@@ -82,7 +82,7 @@
 - **Dangerous Power Increase**: Blood feeding dramatically increases abilities but unleashes dark side
 - **Self-Imposed Restraint**: Fears the persona that emerges when she feeds on blood
 
-## Role in The Umbra
+## Role in [[Ravenverse/The Umbra\|The Umbra]]
 
 ### Forced Membership & Control
 
@@ -103,7 +103,7 @@
 
 ### [[Characters/Adam Coleman\|Adam Coleman]] & The Half Heart
 
-- **[[Characters/Adam Coleman\|Adam Coleman]]**: Graying fifty-year-old who founded The Umbra with others
+- **[[Characters/Adam Coleman\|Adam Coleman]]**: Graying fifty-year-old who founded [[Ravenverse/The Umbra\|The Umbra]] with others
 - **Heart Possession**: Physically holds her half heart, enabling magical control
 - **False Narrative**: Pretends her service is voluntary when both know it's compulsion
 - **Mission Assignment**: Uses her for dangerous tasks requiring her unique abilities
@@ -190,7 +190,7 @@
 - **Mutual Respect**: [[Characters/Sia\|Sia]] trusts Ciarda's capabilities and judgment
 - **Family Dynamics**: Understands protective instincts between sisters
 
-### [[Characters/Adam Coleman\|Adam Coleman]] & The Umbra Leadership
+### [[Characters/Adam Coleman\|Adam Coleman]] & [[Ravenverse/The Umbra\|The Umbra]] Leadership
 
 - **[[Characters/Adam Coleman\|Adam Coleman]]**: Fifty-year-old leader who holds her half heart
 - **Control Relationship**: _"I simply asked for a favor you agreed too"_ vs _"If you say otherwise then you're lying"_
@@ -257,7 +257,7 @@
 
 ### Active Missions & Constraints
 
-- **Forced Operations**: Continues serving The Umbra under magical compulsion
+- **Forced Operations**: Continues serving [[Ravenverse/The Umbra\|The Umbra]] under magical compulsion
 - **Double Life**: Pursues personal freedom quest while fulfilling assigned duties
 - **Identity Management**: Must use shape-shifting to continue vampire world investigation
 - **Enemy Status**: Now known to vampire clans as the legendary Mashisa
@@ -275,7 +275,7 @@
 
 - **[[Characters/Adam Coleman\|Adam Coleman]]**: Tense dynamic between controller and controlled
 - **[[Characters/Andrus Kallian\|Andrus]] Kallian**: Dangerous adversary who knows her true identity
-- **The Umbra Team**: Professional relationships complicated by her secret agenda
+- **[[Ravenverse/The Umbra\|The Umbra]] Team**: Professional relationships complicated by her secret agenda
 - **Vampire World**: Now viewed as dangerous threat rather than potential ally
 
 ### Legacy Implications
@@ -303,6 +303,6 @@
 - **Power Balance**: Her abilities could tip any supernatural conflict decisively
 - **Moral Complexity**: Forces others to question simple good vs. evil paradigms
 
-**Her presence in The Umbra demonstrates that sometimes the most effective protection for humanity comes from controlling rather than destroying supernatural threats.** Yet her quest for freedom raises the question: does anyone, regardless of their past, deserve permanent magical enslavement?
+**Her presence in [[Ravenverse/The Umbra\|The Umbra]] demonstrates that sometimes the most effective protection for humanity comes from controlling rather than destroying supernatural threats.** Yet her quest for freedom raises the question: does anyone, regardless of their past, deserve permanent magical enslavement?
 
 **Ciarda's story is ultimately about the struggle between who we were, who we are, and who we choose to become** - even when that choice is complicated by magical compulsion, ancient curses, and the weight of unforgivable history. She represents both the potential for redemption and the eternal question of whether some sins are too great to be forgiven, even by time itself.

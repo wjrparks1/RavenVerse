@@ -4,7 +4,7 @@
 
 
 
-**Jason Cooper** is a technical specialist and intelligence analyst for The Umbra supernatural hunting organization. As one of the youngest members of the team, Jason provides crucial research capabilities, digital investigation, and technological support that enables The Umbra's field operations. Working alongside his partner [[Characters/Diann Martin\|Diann Martin]], he represents the modern technological backbone of contemporary supernatural hunting.
+**Jason Cooper** is a technical specialist and intelligence analyst for [[Ravenverse/The Umbra\|The Umbra]] supernatural hunting organization. As one of the youngest members of the team, Jason provides crucial research capabilities, digital investigation, and technological support that enables [[Ravenverse/The Umbra\|The Umbra]]'s field operations. Working alongside his partner [[Characters/Diann Martin\|Diann Martin]], he represents the modern technological backbone of contemporary supernatural hunting.
 
 ## Physical Description
 
@@ -16,7 +16,7 @@
 
 ## Background & History
 
-### Recruitment to The Umbra
+### Recruitment to [[Ravenverse/The Umbra\|The Umbra]]
 
 - **Youth**: Among the youngest members of the organization
 - **Skill Set**: Recruited for technological and research capabilities
@@ -55,7 +55,7 @@
 - **Data Correlation**: Connects disparate pieces of information to form complete pictures
 - **Communication Networks**: Maintains technological links between team members
 
-## Role in The Umbra
+## Role in [[Ravenverse/The Umbra\|The Umbra]]
 
 ### Technical Support Specialist
 
@@ -80,7 +80,7 @@
 
 ## Major Operations & Contributions
 
-### Sia Rescue Mission Intelligence
+### [[Characters/Sia\|Sia]] Rescue Mission Intelligence
 
 **Background Research**: Provided crucial location intelligence for rescue operation
 
@@ -194,7 +194,7 @@
 
 ## Significance to The Hidden World
 
-**Jason Cooper represents the integration of modern technology with supernatural hunting operations.** His presence in The Umbra demonstrates how contemporary digital capabilities can enhance traditional supernatural conflict resolution, providing information advantages that were previously unavailable to hunters.
+**Jason Cooper represents the integration of modern technology with supernatural hunting operations.** His presence in [[Ravenverse/The Umbra\|The Umbra]] demonstrates how contemporary digital capabilities can enhance traditional supernatural conflict resolution, providing information advantages that were previously unavailable to hunters.
 
 **Key Contributions:**
 
@@ -203,10 +203,10 @@
 - **Youth Perspective**: Brings contemporary understanding to age-old supernatural conflicts
 - **Support Infrastructure**: Creates technological foundation enabling more effective supernatural protection
 
-**Organizational Evolution**: Jason's role represents the evolution of supernatural hunting from purely combat-focused to intelligence-driven operations. His technological expertise provides The Umbra with information advantages that traditional hunting organizations lack.
+**Organizational Evolution**: Jason's role represents the evolution of supernatural hunting from purely combat-focused to intelligence-driven operations. His technological expertise provides [[Ravenverse/The Umbra\|The Umbra]] with information advantages that traditional hunting organizations lack.
 
-**Modern Adaptation**: His success in The Umbra suggests that effective supernatural protection requires not only combat power and magical abilities, but also comprehensive intelligence capabilities enabled by modern technology.
+**Modern Adaptation**: His success in [[Ravenverse/The Umbra\|The Umbra]] suggests that effective supernatural protection requires not only combat power and magical abilities, but also comprehensive intelligence capabilities enabled by modern technology.
 
 **Jason Cooper embodies the necessity of technological intelligence in contemporary supernatural conflicts.** While his teammates provide combat power and supernatural abilities, he provides the information foundation that enables them to operate effectively in an increasingly complex supernatural landscape.
 
-**His presence in The Umbra demonstrates that protecting humanity from supernatural threats requires not just ancient wisdom and combat prowess, but also the technological capabilities to understand, track, and anticipate supernatural activities in the modern world.** He represents the crucial intelligence component without which even the most powerful supernatural hunters would be operating blind in an information-dependent world.
+**His presence in [[Ravenverse/The Umbra\|The Umbra]] demonstrates that protecting humanity from supernatural threats requires not just ancient wisdom and combat prowess, but also the technological capabilities to understand, track, and anticipate supernatural activities in the modern world.** He represents the crucial intelligence component without which even the most powerful supernatural hunters would be operating blind in an information-dependent world.

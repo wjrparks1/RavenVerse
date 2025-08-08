@@ -4,12 +4,12 @@
 
 
 
-**Ambrosia Santo** is a spiritual warrior and member of The Umbra supernatural hunting organization. As a Santo practitioner of the ancient Shanto arts, she specializes in magical detection, spiritual weapon creation, and coordinated combat alongside her brother [[Characters/Ryker Santo\|Ryker]]. Her abilities provide crucial supernatural analysis and tactical support for The Umbra's operations.
+**Ambrosia [[Ravenverse/The Shanto\|Santo]]** is a spiritual warrior and member of [[Ravenverse/The Umbra\|The Umbra]] supernatural hunting organization. As a [[Ravenverse/The Shanto\|Santo]] practitioner of the ancient Shanto arts, she specializes in magical detection, spiritual weapon creation, and coordinated combat alongside her brother [[Characters/Ryker Santo\|Ryker]]. Her abilities provide crucial supernatural analysis and tactical support for [[Ravenverse/The Umbra\|The Umbra]]'s operations.
 
 ## Physical Description
 
-- **Species**: Human enhanced with spiritual energy (Santo)
-- **Family**: Sister to [[Characters/Ryker Santo\|Ryker]] Santo
+- **Species**: Human enhanced with spiritual energy ([[Ravenverse/The Shanto\|Santo]])
+- **Family**: Sister to [[Characters/Ryker Santo\|Ryker]] [[Ravenverse/The Shanto\|Santo]]
 - **Build**: Warrior physique trained for spiritual combat and agility
 - **Combat Style**: Agile fighter combining physical combat with spiritual energy
 - **Personality**: Professional and analytical, focused on tactical applications
@@ -18,13 +18,13 @@
 
 ### Shanto Heritage
 
-- **Organization**: Member of the Shanto, _"a clandestine group, they use the power of spiritual energy to battle the evil of the world"_
+- **Organization**: Member of [[Ravenverse/The Shanto\|the Shanto]], _"a clandestine group, they use the power of spiritual energy to battle the evil of the world"_
 - **Ancient Tradition**: Part of secretive organization that maintains balance with The Order of the Sons of Light
 - **Spiritual Training**: Underwent rigorous development of inner spiritual energy (chi)
 - **Family Partnership**: Trained alongside brother [[Characters/Ryker Santo\|Ryker]] in coordinated combat techniques
 - **Cultural Legacy**: Represents ancient spiritual warrior traditions adapted to modern threats
 
-### The Umbra Integration
+### [[Ravenverse/The Umbra\|The Umbra]] Integration
 
 - **Former Independence**: Like other team members, originally operated as a lone wolf
 - **Recruitment Value**: Brought unique supernatural detection and analysis abilities
@@ -38,7 +38,7 @@
 - **Core Power**: _"Able to use spiritual energy, or chi, for combat"_
 - **Energy Manifestation**: Creates yellow/golden glowing constructs and weapons
 - **Spiritual Detection**: Can analyze supernatural energies and magical phenomena
-- **Inner Power Source**: _"The Shanto use a spiritual power, an inner power"_
+- **Inner Power Source**: _"[[Ravenverse/The Shanto\|The Shanto]] use a spiritual power, an inner power"_
 - **Combat Enhancement**: Uses spiritual energy to augment physical abilities
 
 ### Magical Detection & Analysis
@@ -57,7 +57,7 @@
 - **Projectile Attacks**: Shoots shimmering lights of spirit energy as missiles
 - **Defensive Applications**: Can create spiritual barriers and protective constructs
 
-## Role in The Umbra
+## Role in [[Ravenverse/The Umbra\|The Umbra]]
 
 ### Supernatural Intelligence Specialist
 
@@ -75,7 +75,7 @@
 
 ## Major Combat Encounters
 
-### Sia Rescue Mission (Abandoned Hospital)
+### [[Characters/Sia\|Sia]] Rescue Mission (Abandoned Hospital)
 
 **Setting**: Complex rescue operation requiring supernatural detection
 
@@ -127,12 +127,12 @@
 
 ## Relationships & Team Dynamics
 
-### [[Characters/Ryker Santo\|Ryker]] Santo - Brother Partnership
+### [[Characters/Ryker Santo\|Ryker]] [[Ravenverse/The Shanto\|Santo]] - Brother Partnership
 
 - **Perfect Synchronization**: Seamless coordination in combat situations
 - **Complementary Skills**: Different spiritual specializations that enhance each other
 - **Family Trust**: Deep bond enabling complex tactical maneuvers without communication
-- **Shared Heritage**: Both bring Shanto traditions and techniques to The Umbra
+- **Shared Heritage**: Both bring Shanto traditions and techniques to [[Ravenverse/The Umbra\|The Umbra]]
 
 ### Lucas Cole - Team Leader
 
@@ -205,7 +205,7 @@
 
 ## Significance to The Hidden World
 
-**Ambrosia Santo represents the evolution of supernatural intelligence and analysis within modern hunting organizations.** Her combination of ancient spiritual techniques with tactical intelligence gathering demonstrates how traditional organizations can contribute specialized knowledge to contemporary supernatural protection efforts.
+**Ambrosia [[Ravenverse/The Shanto\|Santo]] represents the evolution of supernatural intelligence and analysis within modern hunting organizations.** Her combination of ancient spiritual techniques with tactical intelligence gathering demonstrates how traditional organizations can contribute specialized knowledge to contemporary supernatural protection efforts.
 
 **Key Contributions:**
 
@@ -214,10 +214,10 @@
 - **Traditional Techniques**: Applies ancient spiritual methods to modern supernatural threats
 - **Family Coordination**: Demonstrates effectiveness of sibling partnerships in supernatural combat
 
-**Strategic Value**: Her ability to analyze and understand supernatural phenomena provides The Umbra with crucial intelligence advantages. Her assessments help the team understand enemy capabilities, magical limitations, and tactical opportunities that would otherwise remain hidden.
+**Strategic Value**: Her ability to analyze and understand supernatural phenomena provides [[Ravenverse/The Umbra\|The Umbra]] with crucial intelligence advantages. Her assessments help the team understand enemy capabilities, magical limitations, and tactical opportunities that would otherwise remain hidden.
 
-**Organizational Bridge**: As a Santo serving in The Umbra, Ambrosia represents potential cooperation between the ancient Shanto organization and modern independent hunting groups. Her success suggests that traditional spiritual warriors can effectively contribute to contemporary supernatural protection efforts.
+**Organizational Bridge**: As a [[Ravenverse/The Shanto\|Santo]] serving in [[Ravenverse/The Umbra\|The Umbra]], Ambrosia represents potential cooperation between the ancient Shanto organization and modern independent hunting groups. Her success suggests that traditional spiritual warriors can effectively contribute to contemporary supernatural protection efforts.
 
-**Ambrosia Santo embodies the importance of intelligence and analysis in supernatural combat.** While her brother [[Characters/Ryker Santo\|Ryker]] provides offensive spiritual capabilities, she brings the analytical expertise necessary for understanding and countering increasingly complex supernatural threats. Her presence in The Umbra demonstrates that effective supernatural protection requires not just combat power, but also the intelligence to understand and anticipate supernatural phenomena.
+**Ambrosia [[Ravenverse/The Shanto\|Santo]] embodies the importance of intelligence and analysis in supernatural combat.** While her brother [[Characters/Ryker Santo\|Ryker]] provides offensive spiritual capabilities, she brings the analytical expertise necessary for understanding and countering increasingly complex supernatural threats. Her presence in [[Ravenverse/The Umbra\|The Umbra]] demonstrates that effective supernatural protection requires not just combat power, but also the intelligence to understand and anticipate supernatural phenomena.
 
-**Her integration into The Umbra suggests that the future of supernatural hunting depends not only on diverse combat abilities, but also on comprehensive intelligence capabilities that can analyze and understand the full spectrum of supernatural threats facing the modern world.**
+**Her integration into [[Ravenverse/The Umbra\|The Umbra]] suggests that the future of supernatural hunting depends not only on diverse combat abilities, but also on comprehensive intelligence capabilities that can analyze and understand the full spectrum of supernatural threats facing the modern world.**

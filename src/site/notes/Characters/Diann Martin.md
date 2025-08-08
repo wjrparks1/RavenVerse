@@ -4,7 +4,7 @@
 
 
 
-**Diann Martin** is a technical specialist and tactical analyst for The Umbra supernatural hunting organization. As the partner to Jason Cooper in the organization's intelligence division, Diann provides critical research capabilities, strategic analysis, and technological support that forms the backbone of The Umbra's operational effectiveness. Her pragmatic approach and analytical skills complement the team's supernatural capabilities.
+**Diann Martin** is a technical specialist and tactical analyst for [[Ravenverse/The Umbra\|The Umbra]] supernatural hunting organization. As the partner to [[Characters/Jason Cooper\|Jason Cooper]] in the organization's intelligence division, Diann provides critical research capabilities, strategic analysis, and technological support that forms the backbone of [[Ravenverse/The Umbra\|The Umbra]]'s operational effectiveness. Her pragmatic approach and analytical skills complement the team's supernatural capabilities.
 
 ## Physical Description
 
@@ -12,11 +12,11 @@
 - **Age**: Late teens to early twenties
 - **Build**: Young adult focused on intellectual and analytical pursuits
 - **Role**: Backend intelligence specialist operating from headquarters
-- **Partnership**: Works in close coordination with Jason Cooper as technical team
+- **Partnership**: Works in close coordination with [[Characters/Jason Cooper\|Jason Cooper]] as technical team
 
 ## Background & History
 
-### Recruitment to The Umbra
+### Recruitment to [[Ravenverse/The Umbra\|The Umbra]]
 
 - **Youth Perspective**: Among the youngest members of the organization
 - **Analytical Skills**: Recruited for research capabilities and tactical intelligence
@@ -43,7 +43,7 @@
 
 ### Research Capabilities
 
-- **Intelligence Gathering**: Coordinates with Jason Cooper for comprehensive research
+- **Intelligence Gathering**: Coordinates with [[Characters/Jason Cooper\|Jason Cooper]] for comprehensive research
 - **Data Analysis**: Processes and interprets information for operational use
 - **Background Investigation**: Researches historical and contextual information about targets
 - **Strategic Planning**: Contributes analytical perspective to mission planning
@@ -56,7 +56,7 @@
 - **Operational Coordination**: Facilitates information flow between headquarters and field teams
 - **Technology Applications**: Uses modern tools for supernatural intelligence analysis
 
-## Role in The Umbra
+## Role in [[Ravenverse/The Umbra\|The Umbra]]
 
 ### Intelligence Analysis Specialist
 
@@ -74,14 +74,14 @@
 
 ### Research Partnership
 
-- **Jason Cooper Collaboration**: Works closely with Jason for comprehensive intelligence gathering
+- **[[Characters/Jason Cooper\|Jason Cooper]] Collaboration**: Works closely with Jason for comprehensive intelligence gathering
 - **Complementary Skills**: Provides analytical capabilities that enhance research effectiveness
 - **Information Processing**: Synthesizes research data into actionable intelligence
 - **Quality Control**: Ensures accuracy and reliability of intelligence products
 
 ## Major Operations & Contributions
 
-### Sia Rescue Mission Analysis
+### [[Characters/Sia\|Sia]] Rescue Mission Analysis
 
 **Intelligence Contribution**: Provided crucial tactical analysis for rescue operation
 
@@ -126,7 +126,7 @@
 
 ## Relationships & Team Dynamics
 
-### Jason Cooper - Technical Partnership
+### [[Characters/Jason Cooper\|Jason Cooper]] - Technical Partnership
 
 - **Professional Partnership**: Coordinates closely with Jason for comprehensive intelligence capabilities
 - **Complementary Skills**: Jason handles research; Diann focuses on analysis and tactical assessment
@@ -195,7 +195,7 @@
 
 ## Significance to The Hidden World
 
-**Diann Martin represents the integration of modern analytical capabilities with supernatural hunting operations.** Her presence in The Umbra demonstrates how contemporary strategic thinking and analytical methods can enhance traditional supernatural conflict resolution by providing comprehensive intelligence and tactical assessment capabilities.
+**Diann Martin represents the integration of modern analytical capabilities with supernatural hunting operations.** Her presence in [[Ravenverse/The Umbra\|The Umbra]] demonstrates how contemporary strategic thinking and analytical methods can enhance traditional supernatural conflict resolution by providing comprehensive intelligence and tactical assessment capabilities.
 
 **Key Contributions:**
 
@@ -204,10 +204,10 @@
 - **Strategic Perspective**: Offers long-term thinking and tactical analysis to supernatural protection efforts
 - **Professional Standards**: Maintains high analytical standards that improve overall team effectiveness
 
-**Organizational Evolution**: Diann's role represents the evolution of supernatural hunting from instinct-driven to intelligence-based operations. Her analytical expertise provides The Umbra with strategic advantages that traditional hunting organizations often lack.
+**Organizational Evolution**: Diann's role represents the evolution of supernatural hunting from instinct-driven to intelligence-based operations. Her analytical expertise provides [[Ravenverse/The Umbra\|The Umbra]] with strategic advantages that traditional hunting organizations often lack.
 
-**Modern Perspective**: Her success in The Umbra suggests that effective supernatural protection requires not only combat power and magical abilities, but also comprehensive analytical capabilities that can assess threats, evaluate risks, and plan strategically for complex supernatural conflicts.
+**Modern Perspective**: Her success in [[Ravenverse/The Umbra\|The Umbra]] suggests that effective supernatural protection requires not only combat power and magical abilities, but also comprehensive analytical capabilities that can assess threats, evaluate risks, and plan strategically for complex supernatural conflicts.
 
 **Diann Martin embodies the necessity of strategic intelligence in contemporary supernatural operations.** While her teammates provide combat power, supernatural abilities, and research capabilities, she provides the analytical foundation that enables them to operate effectively and strategically in an increasingly complex supernatural landscape.
 
-**Her presence in The Umbra demonstrates that protecting humanity from supernatural threats requires not just ancient wisdom and combat prowess, but also the analytical capabilities to understand, assess, and strategically respond to supernatural activities in a systematic and effective manner.** She represents the crucial analytical component that transforms supernatural hunting from reactive combat to proactive strategic operations.
+**Her presence in [[Ravenverse/The Umbra\|The Umbra]] demonstrates that protecting humanity from supernatural threats requires not just ancient wisdom and combat prowess, but also the analytical capabilities to understand, assess, and strategically respond to supernatural activities in a systematic and effective manner.** She represents the crucial analytical component that transforms supernatural hunting from reactive combat to proactive strategic operations.
