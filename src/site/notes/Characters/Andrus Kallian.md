@@ -153,7 +153,7 @@
 - **Status**: Supposedly dead, but encountered alive in West Texas
 - **Special Note**: The Order wanted to capture him alive to use against other vampires
 
-#### Phillip/Phil
+#### [[Characters/Phillip Walker\|Phillip]]/Phil
 
 - **Species**: Vampire with demonic enhancements
 - **Threat Level**: Extremely high due to hellforged sword and ring enhancements
@@ -188,7 +188,7 @@
 
 - **Setting**: New York City, Hell's Kitchen
 - **New Alliances**: First encounters with [[Ravenverse/The Umbra\|The Umbra]] hunting group
-- **Major Battle**: Rescue mission for [[Characters/Sia\|Sia]], confrontation with Phillip
+- **Major Battle**: Rescue mission for [[Characters/Sia\|Sia]], confrontation with [[Characters/Phillip Walker\|Phillip]]
 - **Character Growth**: Begins to consider working with others again after years of isolation
 - **Status**: Cautiously opening to the idea of joining [[Ravenverse/The Umbra\|The Umbra]]
 
@@ -268,7 +268,7 @@ _"No sympathy for the devil. It's how they get you."_ - His approach to vampires
 
 - **Location**: New York City (operating from warehouse near the docks)
 - **Affiliation**: Independent hunter, considering joining [[Ravenverse/The Umbra\|The Umbra]]
-- **Primary Goal**: Hunting Phillip and preventing supernatural threats to innocent lives
+- **Primary Goal**: Hunting [[Characters/Phillip Walker\|Phillip]] and preventing supernatural threats to innocent lives
 - **Personal Quest**: Seeking revenge against Zephyr for [[Characters/Dalena\|Dalena]]'s murder
 - **Relationship Status**: Single, emotionally guarded but slowly reconnecting with friends
 

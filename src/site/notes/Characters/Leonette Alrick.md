@@ -32,7 +32,7 @@ Leonette took the chalice and drank. Her body burned and she screamed as the fir
 
 Leonette went through different tests after the transformation to gauge her power and skills, consisting of weapons, hand to hand, and elemental trials. She was the weakest and deemed the 40th ranked churiphim. Upon reaching her 23rd birthday, Leonette stopped aging as all churiphim do around their mid twenties. She went to work in the new world with her grandfather during the American Revolution. He was the only family she had left, besides the long distance family they never kept contact with—the ones that would be the survivors for the lineage.
 
-In 1776, Leonette separated herself from The Sisterhood of Churiphim and The Order, choosing to side with [[Characters/Raven Walker\|Raven]] and seeking vengeance against [[Characters/Elspet\|Elspet]], the lilin that killed her grandfather. She never killed [[Characters/Elspet\|Elspet]], losing to her twice and almost dying if it were not for [[Characters/Raven Walker\|Raven]]. For 4 years after, Leonette remained with [[Characters/Raven Walker\|Raven]] and her brothers Mathew and Phillip, along with Nathaniel, [[Characters/Raven Walker\|Raven]]'s lover. She trained them in the ways of churiphim skills while they showed her a more human way of living and connecting. While she remained with [[Characters/Raven Walker\|Raven]], she trained harder, increasing her powers and enhancing her skills. She wanted vengeance and she would seek [[Characters/Elspet\|Elspet]] again.
+In 1776, Leonette separated herself from The Sisterhood of Churiphim and The Order, choosing to side with [[Characters/Raven Walker\|Raven]] and seeking vengeance against [[Characters/Elspet\|Elspet]], the lilin that killed her grandfather. She never killed [[Characters/Elspet\|Elspet]], losing to her twice and almost dying if it were not for [[Characters/Raven Walker\|Raven]]. For 4 years after, Leonette remained with [[Characters/Raven Walker\|Raven]] and her brothers [[Characters/Mathew Walker\|Mathew]] and [[Characters/Phillip Walker\|Phillip]], along with Nathaniel, [[Characters/Raven Walker\|Raven]]'s lover. She trained them in the ways of churiphim skills while they showed her a more human way of living and connecting. While she remained with [[Characters/Raven Walker\|Raven]], she trained harder, increasing her powers and enhancing her skills. She wanted vengeance and she would seek [[Characters/Elspet\|Elspet]] again.
 
 In 1880, [[Characters/Raven Walker\|Raven]] met up with a group of vampires that [[Characters/Elspet\|Elspet]] kept with. The opportunity presented itself once more for Leonette to kill [[Characters/Elspet\|Elspet]], but the lilin proved to be too powerful yet and almost killed her once more.
 
@@ -135,7 +135,7 @@ Leonette has achieved unprecedented control over her elemental bond, allowing un
 ### Allies
 
 - [[Characters/Raven Walker\|Raven Walker]] (vampire, female)
-- Mathew and Phillip ([[Characters/Raven Walker\|Raven]]'s brothers)
+- [[Characters/Mathew Walker\|Mathew]] and [[Characters/Phillip Walker\|Phillip]] ([[Characters/Raven Walker\|Raven]]'s brothers)
 - Nathaniel ([[Characters/Raven Walker\|Raven]]'s lover)
 
 ## Notable Achievements

@@ -150,11 +150,11 @@
 
 ### Sanguinoso Clan Investigation
 
-**Initial Contact**: Infiltrated vampire club to investigate Phillip's connections
+**Initial Contact**: Infiltrated vampire club to investigate [[Characters/Phillip Walker\|Phillip]]'s connections
 
 - Posed as 200-year-old elder vampire to blend in
 - Met Seraphine (clan elder) and Lucian (Dracula's bride lineage)
-- Gathered intelligence about vampire politics and Phillip's mate Amity
+- Gathered intelligence about vampire politics and [[Characters/Phillip Walker\|Phillip]]'s mate Amity
 
 **Club Massacre**: When accosted by clan members:
 
@@ -162,7 +162,7 @@
 - Demonstrated lethal efficiency and supernatural combat skills
 - Used incident to send message about her capabilities
 
-**Alley Ambush**: Confronted by Amity (Phillip's mate) and thirty vampires
+**Alley Ambush**: Confronted by Amity ([[Characters/Phillip Walker\|Phillip]]'s mate) and thirty vampires
 
 - Fought alongside [[Characters/Andrus Kallian\|Andrus]] against overwhelming odds
 - Eliminated most attackers, though Amity and Lucian escaped
@@ -174,7 +174,7 @@
 - Sent clear message of retaliation and capability
 - Demonstrated she wouldn't be intimidated by vampire clan politics
 
-**Phillip Confrontation**:
+**[[Characters/Phillip Walker\|Phillip]] Confrontation**:
 
 - Faced vampire with hellforged sword and demonic enhancements
 - Absorbed his dark energy attacks with her hands and forearms
@@ -265,9 +265,9 @@
 
 ### The Freedom Campaign
 
-- **Primary Goal**: Recover the Hellblade from Phillip to reverse her curse
-- **Methodology**: Infiltrating vampire society to track Phillip's location
-- **Obstacles**: Amity (Phillip's mate) and vampire clans now actively opposing her
+- **Primary Goal**: Recover the Hellblade from [[Characters/Phillip Walker\|Phillip]] to reverse her curse
+- **Methodology**: Infiltrating vampire society to track [[Characters/Phillip Walker\|Phillip]]'s location
+- **Obstacles**: Amity ([[Characters/Phillip Walker\|Phillip]]'s mate) and vampire clans now actively opposing her
 - **Time Pressure**: [[Characters/Adam Coleman\|Adam Coleman]]'s mortality threatens permanent enslavement
 - **Moral Conflict**: Must balance freedom quest with avoiding return to Mashisa persona
 

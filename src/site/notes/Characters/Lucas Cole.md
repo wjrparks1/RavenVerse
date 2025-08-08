@@ -89,7 +89,7 @@
 **Mission Command**: Led complex rescue operation in abandoned hospital
 
 - **Tactical Deployment**: Assigned team members based on their specific abilities
-- **Threat Assessment**: Recognized the danger posed by Phillip's supernatural enhancements
+- **Threat Assessment**: Recognized the danger posed by [[Characters/Phillip Walker\|Phillip]]'s supernatural enhancements
 - **Team Safety**: Ensured coordinated approach to minimize casualties
 - **Adaptability**: Adjusted strategy when confronted with hellforged sword wielder
 
@@ -150,7 +150,7 @@
 
 ### Ongoing Threats
 
-- **Phillip Investigation**: Managing search for vampire with hellforged sword
+- **[[Characters/Phillip Walker\|Phillip]] Investigation**: Managing search for vampire with hellforged sword
 - **Lilin Invasion**: Coordinating response to supernatural territorial war
 - **Order Politics**: Navigating conflicts between traditional hunting organizations
 - **Team Expansion**: Recruiting additional qualified supernatural hunters

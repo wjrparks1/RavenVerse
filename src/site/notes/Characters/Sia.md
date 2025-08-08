@@ -132,7 +132,7 @@
 - Realized she was specifically targeted for her role in vampire elimination
 - Understood the increased danger her activities brought
 
-### Kidnapping by Phillip
+### Kidnapping by [[Characters/Phillip Walker\|Phillip]]
 
 **The Abduction**:
 
@@ -144,12 +144,12 @@
 
 - [[Ravenverse/The Umbra\|The Umbra]] launched full-scale rescue operation
 - Battle took place in underground levels of abandoned hospital
-- Confronted Phillip and his supernatural enhancements
+- Confronted [[Characters/Phillip Walker\|Phillip]] and his supernatural enhancements
 
 **Resolution**:
 
 - Successfully rescued by combined efforts of [[Ravenverse/The Umbra\|The Umbra]]
-- Phillip escaped due to his soul-bound hellforged sword
+- [[Characters/Phillip Walker\|Phillip]] escaped due to his soul-bound hellforged sword
 - Experience demonstrated both her vulnerability and value to allies
 
 ## Personality & Character Traits

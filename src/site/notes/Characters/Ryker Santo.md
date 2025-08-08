@@ -73,14 +73,14 @@
 
 ## Major Combat Encounters
 
-### Phillip Confrontation (Abandoned Hospital)
+### [[Characters/Phillip Walker\|Phillip]] Confrontation (Abandoned Hospital)
 
 **Setting**: Rescue mission for kidnapped witch [[Characters/Sia\|Sia]]
 
 **Combat Performance**:
 
-- Created spirit animals that attempted to attack Phillip
-- Animals were destroyed by Phillip's hellforged sword (_"roared in pain and disappeared into black flames"_)
+- Created spirit animals that attempted to attack [[Characters/Phillip Walker\|Phillip]]
+- Animals were destroyed by [[Characters/Phillip Walker\|Phillip]]'s hellforged sword (_"roared in pain and disappeared into black flames"_)
 - Coordinated with [[Characters/Ambrosia Santo\|Ambrosia]] to launch spirit missile attacks
 - Demonstrated resilience when magical attacks were deflected
 

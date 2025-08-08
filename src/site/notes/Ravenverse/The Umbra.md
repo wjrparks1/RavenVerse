@@ -133,11 +133,11 @@
 
 - **Situation**: Witch kidnapped using demonic sorcery
 - **Location**: Abandoned hospital in Hell's Kitchen
-- **Opposition**: Gattas, Phillip, and vampire forces
-- **Challenge**: Confronted Phillip's hellforged sword and demonic rings
-- **Result**: Successful rescue, though Phillip escaped due to soul-bound weapon
+- **Opposition**: Gattas, [[Characters/Phillip Walker\|Phillip]], and vampire forces
+- **Challenge**: Confronted [[Characters/Phillip Walker\|Phillip]]'s hellforged sword and demonic rings
+- **Result**: Successful rescue, though [[Characters/Phillip Walker\|Phillip]] escaped due to soul-bound weapon
 
-### Ongoing Phillip Investigation
+### Ongoing [[Characters/Phillip Walker\|Phillip]] Investigation
 
 - **Target**: Vampire creating massive fledgling armies
 - **Threat Level**: Extremely high due to supernatural enhancements
@@ -203,7 +203,7 @@
 
 ### Major Threats
 
-- **Phillip**: Vampire with hellforged sword creating armies of fledglings
+- **[[Characters/Phillip Walker\|Phillip]]**: Vampire with hellforged sword creating armies of fledglings
 - **Lilin Invasion**: Coordinated takeover of New York supernatural territories
 - **Order of Hellsing**: Splinter faction allied with lilins
 - **Territorial Wars**: Ongoing conflicts affecting civilian population

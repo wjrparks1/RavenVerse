@@ -335,7 +335,7 @@ Higher-ranked Churiphim possess greater versions of these abilities and addition
 - **Metal** (Fawn, Bonamy, Ismeria): Weapon creation, armor manifestation
 - **Electricity** (Verena, Ismeria): Lightning generation, electronic manipulation
 - **Light** (Kassia, Zenobia): Illumination, holy energy, illusions
-- **Shadow** (Delyth, Ferelith, Sable, Blair): Darkness manipulation, stealth
+- **Shadow** (Delyth, Ferelith, [[Characters/Sable\|Sable]], Blair): Darkness manipulation, stealth
 - **Energy** (Lena): Pure energy manipulation and constructs
 - **Aether** ([[Characters/Judith\|Judith]] only): Divine essence manipulation, reality alteration
 

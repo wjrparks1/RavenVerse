@@ -79,7 +79,7 @@ _Half angel, half human beings granted powers by the angels to help fight the li
 22. **Riella** – Elemental Affinity: Earth
 23. **Millicent** – Elemental Affinity: Fire
 24. **Asta** – Elemental Affinity: Air
-25. **Sable** – Elemental Affinity: Darkness
+25. **[[Characters/Sable\|Sable]]** – Elemental Affinity: Darkness
 26. **Vesta**
 27. **Auryn**
 28. **Elara**

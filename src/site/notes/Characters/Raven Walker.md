@@ -26,7 +26,7 @@
 
 - **Father:** Walker family patriarch who knew the family history but didn't believe it
 - **Uncle:** Adam Walker - a member of the Core Order who tried to protect the family
-- **Brothers:** Mathew and Phillip Walker (both still alive as of the main storyline)
+- **Brothers:** [[Characters/Mathew Walker\|Mathew]] and [[Characters/Phillip Walker\|Phillip Walker]] (both still alive as of the main storyline)
 
 **Bloodline Significance:**
 

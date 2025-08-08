@@ -86,7 +86,7 @@
 - **Tactical Input**: Provided crucial information for mission planning and approach strategy
 - **Combat Support**: Participated in coordinated assault against supernatural enemies
 
-### Phillip Confrontation
+### [[Characters/Phillip Walker\|Phillip]] Confrontation
 
 **Combat Performance**:
 
