@@ -65,7 +65,7 @@
 - **Primary Role**: Tactical commander and field operations leader
 - **Team Coordination**: Assigns roles based on individual team member strengths
 - **Mission Command**: Issues field orders and adapts strategy in real-time
-    - _"Ciarda, take the roof and scope out the area. Ryker, you and Ambrosia, go in the back"_
+    - _"Ciarda, take the roof and scope out the area. [[Characters/Ryker Santo\|Ryker]], you and [[Characters/Ambrosia Santo\|Ambrosia]], go in the back"_
 - **Communication Hub**: Uses microphone systems to coordinate team movements
 
 ### Recruitment & Trust
@@ -77,7 +77,7 @@
 
 ### Organizational Structure
 
-- **Field Commander**: Leads active operations while Adam Coleman handles administrative aspects
+- **Field Commander**: Leads active operations while [[Characters/Adam Coleman\|Adam Coleman]] handles administrative aspects
 - **Team Dynamics**: Balances different supernatural personalities and abilities
 - **Mission Selection**: Identifies targets and threats requiring team intervention
 - **Resource Management**: Coordinates with technical support team (Jason and Diann)

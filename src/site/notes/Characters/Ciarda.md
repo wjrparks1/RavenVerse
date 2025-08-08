@@ -36,7 +36,7 @@
 
 - **Binding Curse**: A witch removed half of her heart and cursed it with control magic
 - **Forced Servitude**: Must obey commands of whoever possesses her half heart
-- **Current Controller**: Adam Coleman of The Umbra holds her half heart
+- **Current Controller**: [[Characters/Adam Coleman\|Adam Coleman]] of The Umbra holds her half heart
 - **Unwilling Member**: _"I am the only one in the team who has no choice"_
 - **Debt Concept**: Views her service as paying a debt until her heart is returned
 - **Freedom Quest**: Seeks the Hellblade to reverse the curse and regain her freedom
@@ -87,7 +87,7 @@
 ### Forced Membership & Control
 
 - **Status**: Only member serving against her will due to magical compulsion
-- **Controller**: Adam Coleman (50-year-old leader) holds her half heart
+- **Controller**: [[Characters/Adam Coleman\|Adam Coleman]] (50-year-old leader) holds her half heart
 - **False Choice**: _"I simply asked for a favor you agreed to"_ vs _"If you say otherwise then you're lying"_
 - **Debt Servitude**: _"Thank me when my debt is paid and my half heart returned"_
 - **No Refusal**: Cannot decline missions or assignments unlike other team members
@@ -101,9 +101,9 @@
 - **Mission Types**: Handles dangerous supernatural threats, rescue operations, elimination targets
 - **Stealth Operations**: Utilizes dematerialization for covert missions
 
-### Adam Coleman & The Half Heart
+### [[Characters/Adam Coleman\|Adam Coleman]] & The Half Heart
 
-- **Adam Coleman**: Graying fifty-year-old who founded The Umbra with others
+- **[[Characters/Adam Coleman\|Adam Coleman]]**: Graying fifty-year-old who founded The Umbra with others
 - **Heart Possession**: Physically holds her half heart, enabling magical control
 - **False Narrative**: Pretends her service is voluntary when both know it's compulsion
 - **Mission Assignment**: Uses her for dangerous tasks requiring her unique abilities
@@ -190,9 +190,9 @@
 - **Mutual Respect**: [[Characters/Sia\|Sia]] trusts Ciarda's capabilities and judgment
 - **Family Dynamics**: Understands protective instincts between sisters
 
-### Adam Coleman & The Umbra Leadership
+### [[Characters/Adam Coleman\|Adam Coleman]] & The Umbra Leadership
 
-- **Adam Coleman**: Fifty-year-old leader who holds her half heart
+- **[[Characters/Adam Coleman\|Adam Coleman]]**: Fifty-year-old leader who holds her half heart
 - **Control Relationship**: _"I simply asked for a favor you agreed too"_ vs _"If you say otherwise then you're lying"_
 - **Organizational Debt**: Forced to perform missions to "pay her debt"
 - **No True Choice**: Unlike other team members, cannot refuse assignments
@@ -268,12 +268,12 @@
 - **Primary Goal**: Recover the Hellblade from Phillip to reverse her curse
 - **Methodology**: Infiltrating vampire society to track Phillip's location
 - **Obstacles**: Amity (Phillip's mate) and vampire clans now actively opposing her
-- **Time Pressure**: Adam Coleman's mortality threatens permanent enslavement
+- **Time Pressure**: [[Characters/Adam Coleman\|Adam Coleman]]'s mortality threatens permanent enslavement
 - **Moral Conflict**: Must balance freedom quest with avoiding return to Mashisa persona
 
 ### Relationship Dynamics
 
-- **Adam Coleman**: Tense dynamic between controller and controlled
+- **[[Characters/Adam Coleman\|Adam Coleman]]**: Tense dynamic between controller and controlled
 - **[[Characters/Andrus Kallian\|Andrus]] Kallian**: Dangerous adversary who knows her true identity
 - **The Umbra Team**: Professional relationships complicated by her secret agenda
 - **Vampire World**: Now viewed as dangerous threat rather than potential ally

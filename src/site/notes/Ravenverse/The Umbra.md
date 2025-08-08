@@ -51,10 +51,10 @@
 - **Combat Assessment**: Described as "the best fighter in our group" by [[Characters/Lucas Cole\|Lucas]]
 - **Unique Position**: Ancient lilin working to protect humans from supernatural threats
 
-### Ryker [[Ravenverse/The Shanto\|Santo]] - Spiritual Warrior
+### [[Characters/Ryker Santo\|Ryker]] [[Ravenverse/The Shanto\|Santo]] - Spiritual Warrior
 
 - **Species**: [[Ravenverse/The Shanto\|Santo]] (spiritual energy wielder)
-- **Family**: Brother to Ambrosia [[Ravenverse/The Shanto\|Santo]]
+- **Family**: Brother to [[Characters/Ambrosia Santo\|Ambrosia]] [[Ravenverse/The Shanto\|Santo]]
 - **Role**: Magical combat specialist and spiritual construct creator
 - **Abilities**:
     - Creates yellow energy swords and axes
@@ -64,10 +64,10 @@
 - **Personality**: Somewhat sarcastic, confident in abilities
 - **Combat Style**: Coordinated attacks with sister, spirit animal support
 
-### Ambrosia [[Ravenverse/The Shanto\|Santo]] - Spiritual Warrior
+### [[Characters/Ambrosia Santo\|Ambrosia]] [[Ravenverse/The Shanto\|Santo]] - Spiritual Warrior
 
 - **Species**: [[Ravenverse/The Shanto\|Santo]] (spiritual energy wielder)
-- **Family**: Sister to Ryker [[Ravenverse/The Shanto\|Santo]]
+- **Family**: Sister to [[Characters/Ryker Santo\|Ryker]] [[Ravenverse/The Shanto\|Santo]]
 - **Role**: Magical combat and supernatural detection
 - **Abilities**:
     - Creates yellow energy weapons (axes preferred)
@@ -79,7 +79,7 @@
 
 ## Support Team
 
-### Jason Cooper - Technical Specialist
+### [[Characters/Jason Cooper\|Jason Cooper]] - Technical Specialist
 
 - **Species**: Human
 - **Age**: Late teens/early twenties
@@ -88,7 +88,7 @@
 - **Personality**: Reluctant to participate in dangerous field missions
 - **Base of Operations**: Team headquarters with advanced computer systems
 
-### Diann Martin - Technical Specialist
+### [[Characters/Diann Martin\|Diann Martin]] - Technical Specialist
 
 - **Species**: Human
 - **Age**: Late teens/early twenties
@@ -180,9 +180,9 @@
 
 ### Species Diversity
 
-- **Humans**: [[Characters/Lucas Cole\|Lucas]] Cole, Jason Cooper, Diann Martin
+- **Humans**: [[Characters/Lucas Cole\|Lucas]] Cole, [[Characters/Jason Cooper\|Jason Cooper]], [[Characters/Diann Martin\|Diann Martin]]
 - **Lilins**: [[Characters/Ciarda\|Ciarda]] (ancient, memory-impaired)
-- **Santos**: Ryker and Ambrosia (brother-sister team)
+- **Santos**: [[Characters/Ryker Santo\|Ryker]] and [[Characters/Ambrosia Santo\|Ambrosia]] (brother-sister team)
 - **Integration**: All species work as equals regardless of supernatural abilities
 
 ### Moral Flexibility
